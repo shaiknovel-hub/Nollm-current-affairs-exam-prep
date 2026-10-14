@@ -1,0 +1,70 @@
+[
+  {
+    "approved": true,
+    "source_filename": "Toppers-CA-August-20-2026-by-AffairsCloud-1-1-v01.pdf",
+    "page_number": 15,
+    "topic": "Government Schemes",
+    "question": "According to the provided current-affairs material, what incentive was mentioned for each incremental billed domestic PNG connection?",
+    "options": {
+      "A": "100 SCM of gas",
+      "B": "150 SCM of gas",
+      "C": "200 SCM of gas",
+      "D": "300 SCM of gas"
+    },
+    "correct_option": "C",
+    "explanation": "The cited material states an additional 200 SCM APM/NAPM gas incentive per incremental billed domestic PNG connection.",
+    "memory_cue": "PNG = Piped Natural Gas; remember the figure 200 SCM.",
+    "difficulty": "easy"
+  },
+  {
+    "approved": true,
+    "source_filename": "Toppers-CA-August-20-2026-by-AffairsCloud-1-1-v01.pdf",
+    "page_number": 16,
+    "topic": "Electronics Manufacturing",
+    "question": "After approval of 31 additional proposals under ECMS, what was the total number of sanctioned projects stated in the material?",
+    "options": {
+      "A": "76",
+      "B": "96",
+      "C": "106",
+      "D": "116"
+    },
+    "correct_option": "C",
+    "explanation": "The material says 31 additional proposals worth ₹7,877 crore were approved, bringing the total to 106 sanctioned projects.",
+    "memory_cue": "ECMS total: 106 projects.",
+    "difficulty": "easy"
+  },
+  {
+    "approved": true,
+    "source_filename": "Toppers-CA-August-20-2026-by-AffairsCloud-1-1-v01.pdf",
+    "page_number": 19,
+    "topic": "Economy and Employment",
+    "question": "What was the overall unemployment rate reported for July 2026 in the material?",
+    "options": {
+      "A": "4.1%",
+      "B": "4.5%",
+      "C": "5.1%",
+      "D": "6.7%"
+    },
+    "correct_option": "C",
+    "explanation": "The material reports overall unemployment at 5.1%; rural at 4.5% and urban at 6.7%.",
+    "memory_cue": "Overall 5.1%; rural 4.5%; urban 6.7%.",
+    "difficulty": "easy"
+  },
+  {
+    "approved": true,
+    "source_filename": "Toppers-CA-August-20-2026-by-AffairsCloud-1-1-v01.pdf",
+    "page_number": 22,
+    "topic": "Defence Exercises",
+    "question": "Where was the MAITREE-XV exercise held, according to the material?",
+    "options": {
+      "A": "Umroi, Meghalaya",
+      "B": "Vibhavadi Rangsit Camp, Surat Thani, Thailand",
+      "C": "Bangkok, Thailand",
+      "D": "New Delhi, India"
+    },
+    "correct_option": "B",
+    "explanation": "The cited material identifies Vibhavadi Rangsit Camp in Surat Thani, Thailand, as the venue.",
+    "memory_cue": "MAITREE-XV → Surat Thani, Thailand.",
+    "difficulty": "medium"
+  }
+]

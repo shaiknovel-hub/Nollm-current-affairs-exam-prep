@@ -1,0 +1,2780 @@
+SEPTEMBER 2026 CURRENT AFFAIRS — IBPS MAINS MCQ QUESTION BANK
+Format: plain text; one record per question; backend-ingestible fields.
+Current question count: 172
+NOTE: This is an interim bank and does NOT yet meet the requested minimum of 80 questions per PDF.
+Questions are grouped by source PDF, then topic. Each question includes options, answer, explanation, difficulty, and memory tip.
+
+========================================================================================
+SOURCE PDF: Toppers-CA-September-22-2026-by-AffairsCloud-1-v01.pdf
+QUESTIONS FROM THIS PDF: 24
+========================================================================================
+
+TOPIC: National Affairs
+------------------------------------------------------------
+ID: SEP22-NAT-001
+Month: September 2026
+Topic: National Affairs
+Subtopic: Defence exercise
+Difficulty: Easy
+Source: Toppers-CA-September-22-2026-by-AffairsCloud-1-v01.pdf
+Question: Which two countries began the 13th SLINEX-26 maritime exercise?
+A. India and Sri Lanka
+B. India and Bangladesh
+C. India and Thailand
+D. India and Indonesia
+Correct answer: A
+Explanation: The PDF reports that India and Sri Lanka began the 13th edition of SLINEX-26.
+Memory tip: SLINEX = Sri Lanka–India naval exercise.
+
+ID: SEP22-NAT-002
+Month: September 2026
+Topic: National Affairs
+Subtopic: Defence exercise
+Difficulty: Medium
+Source: Toppers-CA-September-22-2026-by-AffairsCloud-1-v01.pdf
+Question: Where was SLINEX-26 reported to have begun?
+A. Kochi, Kerala
+B. Visakhapatnam, Andhra Pradesh
+C. Chennai, Tamil Nadu
+D. Port Blair, Andaman and Nicobar Islands
+Correct answer: B
+Explanation: The exercise began in Visakhapatnam, Andhra Pradesh.
+Memory tip: Visakhapatnam is a major Eastern Naval Command hub.
+
+ID: SEP22-NAT-003
+Month: September 2026
+Topic: National Affairs
+Subtopic: Technology cooperation
+Difficulty: Medium
+Source: Toppers-CA-September-22-2026-by-AffairsCloud-1-v01.pdf
+Question: How many agreements did the Indo-Russia Innopraktika Technology Hub sign at INNOPROM India 2026?
+A. 2
+B. 3
+C. 4
+D. 6
+Correct answer: C
+Explanation: The 22 September headline reports four agreements.
+Memory tip: Remember the event and agreement count together: INNOPROM India — four.
+
+ID: SEP22-ADD-015
+Month: September 2026
+Topic: National Affairs
+Subtopic: SLINEX
+Difficulty: Easy
+Source: Toppers-CA-September-22-2026-by-AffairsCloud-1-v01.pdf
+Question: What does SLINEX stand for?
+A. Sri Lanka–India Naval Exercise
+B. South Asia Land and Intelligence Network Exercise
+C. Sri Lanka–Indonesia Naval Exchange
+D. Strategic Littoral Indian Naval Exercise
+Correct answer: A
+Explanation: The PDF expands SLINEX as Sri Lanka–India Naval Exercise.
+Memory tip: SLINEX = Sri Lanka + India naval exercise.
+
+TOPIC: Agriculture
+------------------------------------------------------------
+ID: SEP22-AGR-004
+Month: September 2026
+Topic: Agriculture
+Subtopic: Climate finance
+Difficulty: Medium
+Source: Toppers-CA-September-22-2026-by-AffairsCloud-1-v01.pdf
+Question: In which Indian states were the first soil-carbon payments to farmers reported?
+A. Punjab and Haryana
+B. Punjab and Rajasthan
+C. Haryana and Uttar Pradesh
+D. Madhya Pradesh and Maharashtra
+Correct answer: A
+Explanation: The PDF headline identifies Punjab and Haryana.
+Memory tip: Soil-carbon payments reward agricultural practices linked to carbon storage.
+
+ID: SEP22-ADD-023
+Month: September 2026
+Topic: Agriculture
+Subtopic: Food exports
+Difficulty: Medium
+Source: Toppers-CA-September-22-2026-by-AffairsCloud-1-v01.pdf
+Question: Which agency signed an MoU with InD Events Dubai to strengthen global food-trade opportunities?
+A. APEDA
+B. NABARD
+C. FCI
+D. DGFT
+Correct answer: A
+Explanation: The PDF identifies APEDA as the signing agency.
+Memory tip: APEDA promotes exports of agricultural and processed food products.
+
+TOPIC: Agriculture and trade
+------------------------------------------------------------
+ID: SEP22-AGR-005
+Month: September 2026
+Topic: Agriculture and trade
+Subtopic: APEDA MoU
+Difficulty: Easy
+Source: Toppers-CA-September-22-2026-by-AffairsCloud-1-v01.pdf
+Question: APEDA signed an MoU with which organization to strengthen global food-trade opportunities?
+A. InD Events Dubai
+B. Naval Group France
+C. Westview Cricket
+D. Zero mK India
+Correct answer: A
+Explanation: The PDF names InD Events Dubai as APEDA's MoU partner.
+Memory tip: APEDA relates to agricultural and processed food exports.
+
+TOPIC: Science and Technology
+------------------------------------------------------------
+ID: SEP22-TECH-006
+Month: September 2026
+Topic: Science and Technology
+Subtopic: Academic collaboration
+Difficulty: Medium
+Source: Toppers-CA-September-22-2026-by-AffairsCloud-1-v01.pdf
+Question: IIIT-Bangalore and TCA signed a letter of intent to collaborate in which broad areas?
+A. Mining and petroleum
+B. AI, electronics and smart technologies
+C. Textiles and handicrafts
+D. Tourism and hospitality
+Correct answer: B
+Explanation: The reported collaboration covers AI, electronics and smart technologies.
+Memory tip: Link IIIT-Bangalore with technology-focused collaboration.
+
+ID: SEP22-ADD-022
+Month: September 2026
+Topic: Science and Technology
+Subtopic: AI collaboration
+Difficulty: Medium
+Source: Toppers-CA-September-22-2026-by-AffairsCloud-1-v01.pdf
+Question: The IIIT-Bangalore and TCA letter of intent was intended to boost collaboration in which three areas?
+A. AI, electronics and smart technologies
+B. Banking, insurance and taxation
+C. Agriculture, fisheries and forestry
+D. Tourism, transport and hospitality
+Correct answer: A
+Explanation: The headline specifies AI, electronics and smart technologies.
+Memory tip: Remember the three linked technology areas.
+
+TOPIC: Banking and Economy
+------------------------------------------------------------
+ID: SEP22-BANK-007
+Month: September 2026
+Topic: Banking and Economy
+Subtopic: Co-branded card
+Difficulty: Medium
+Source: Toppers-CA-September-22-2026-by-AffairsCloud-1-v01.pdf
+Question: Which payment network was associated with the co-branded credit card launched by novio and IOB?
+A. Visa
+B. Mastercard
+C. RuPay
+D. American Express
+Correct answer: C
+Explanation: The headline says novio and Indian Overseas Bank launched a co-branded RuPay credit card.
+Memory tip: RuPay is India's domestic card payment network.
+
+ID: SEP22-ADD-018
+Month: September 2026
+Topic: Banking and Economy
+Subtopic: Credit card
+Difficulty: Medium
+Source: Toppers-CA-September-22-2026-by-AffairsCloud-1-v01.pdf
+Question: Which bank was abbreviated as IOB in the co-branded RuPay credit-card headline?
+A. Indian Overseas Bank
+B. Indian Bank
+C. IndusInd Bank
+D. IDBI Bank
+Correct answer: A
+Explanation: The source uses IOB for Indian Overseas Bank.
+Memory tip: IOB = Indian Overseas Bank.
+
+TOPIC: Economy and Business
+------------------------------------------------------------
+ID: SEP22-ECO-008
+Month: September 2026
+Topic: Economy and Business
+Subtopic: GDP forecast
+Difficulty: Easy
+Source: Toppers-CA-September-22-2026-by-AffairsCloud-1-v01.pdf
+Question: What GDP growth forecast did Moody's assign to India for FY27 in the 22 September PDF?
+A. 6.2%
+B. 6.5%
+C. 7.0%
+D. 7.5%
+Correct answer: C
+Explanation: The headline reports Moody's raised India's FY27 GDP growth forecast to 7%.
+Memory tip: Keep agency forecasts separate; different agencies may publish different estimates.
+
+TOPIC: Awards and Culture
+------------------------------------------------------------
+ID: SEP22-CULT-009
+Month: September 2026
+Topic: Awards and Culture
+Subtopic: Oscars entry
+Difficulty: Medium
+Source: Toppers-CA-September-22-2026-by-AffairsCloud-1-v01.pdf
+Question: Which Marathi film was selected as India's official entry for the 2027 Oscars, according to the PDF?
+A. Gondhal
+B. Virus
+C. Christy
+D. Dakini
+Correct answer: A
+Explanation: The headline identifies the Marathi film 'Gondhal'.
+Memory tip: Remember the title exactly as printed in the source.
+
+TOPIC: Defence
+------------------------------------------------------------
+ID: SEP22-DEF-010
+Month: September 2026
+Topic: Defence
+Subtopic: Indigenous drone
+Difficulty: Medium
+Source: Toppers-CA-September-22-2026-by-AffairsCloud-1-v01.pdf
+Question: What is the name of India's first indigenous long-range OWA drone reported as successfully tested at Pokhran?
+A. Agnibaan
+B. KAL
+C. Dhruv NG
+D. Tejas
+Correct answer: B
+Explanation: The PDF names the drone KAL.
+Memory tip: KAL is the drone; Agnibaan is the reusable launch-vehicle project in the later PDF.
+
+ID: SEP22-DEF-011
+Month: September 2026
+Topic: Defence
+Subtopic: Aircraft
+Difficulty: Medium
+Source: Toppers-CA-September-22-2026-by-AffairsCloud-1-v01.pdf
+Question: Which organization handed over LCA Tejas FOC trainers, HTT-40 basic trainers and Dhruv NG helicopters?
+A. Bharat Dynamics Limited
+B. Hindustan Aeronautics Limited
+C. DRDO
+D. ISRO
+Correct answer: B
+Explanation: The headline names Hindustan Aeronautics Limited (HAL).
+Memory tip: HAL is associated with aircraft and helicopter manufacturing.
+
+ID: SEP22-ADD-016
+Month: September 2026
+Topic: Defence
+Subtopic: SLINEX
+Difficulty: Medium
+Source: Toppers-CA-September-22-2026-by-AffairsCloud-1-v01.pdf
+Question: Which Indian naval command is associated with the eastern maritime theatre relevant to Visakhapatnam?
+A. Eastern Naval Command
+B. Western Naval Command
+C. Southern Naval Command
+D. Andaman Command
+Correct answer: A
+Explanation: The source notes the Eastern Naval Command in its SLINEX context.
+Memory tip: Visakhapatnam is associated with the Eastern Naval Command.
+
+ID: SEP22-ADD-024
+Month: September 2026
+Topic: Defence
+Subtopic: Aircraft
+Difficulty: Medium
+Source: Toppers-CA-September-22-2026-by-AffairsCloud-1-v01.pdf
+Question: Which helicopter model was included in the aircraft handover by HAL alongside Tejas and HTT-40 trainers?
+A. Dhruv NG
+B. Chetak Mk III
+C. Apache
+D. Prachand
+Correct answer: A
+Explanation: The headline lists Dhruv NG helicopters.
+Memory tip: Dhruv NG appears with LCA Tejas FOC trainers and HTT-40 basic trainers.
+
+TOPIC: Environment
+------------------------------------------------------------
+ID: SEP22-ENV-012
+Month: September 2026
+Topic: Environment
+Subtopic: Species discovery
+Difficulty: Hard
+Source: Toppers-CA-September-22-2026-by-AffairsCloud-1-v01.pdf
+Question: The newly identified tiger-cat species 'Leopardus tilcayo' was reported from which country?
+A. Bolivia
+B. Brazil
+C. Peru
+D. Chile
+Correct answer: A
+Explanation: The PDF headline says the species was identified in Bolivia.
+Memory tip: Use the scientific name plus country as a paired fact.
+
+ID: SEP22-ADD-019
+Month: September 2026
+Topic: Environment
+Subtopic: Important Days
+Difficulty: Easy
+Source: Toppers-CA-September-22-2026-by-AffairsCloud-1-v01.pdf
+Question: World Bamboo Day was listed on which date in the September 22 PDF?
+A. 18 September
+B. 20 September
+C. 22 September
+D. 25 September
+Correct answer: A
+Explanation: The PDF lists World Bamboo Day on 18 September.
+Memory tip: The date is retained as listed in the source.
+
+ID: SEP22-ADD-020
+Month: September 2026
+Topic: Environment
+Subtopic: Important Days
+Difficulty: Easy
+Source: Toppers-CA-September-22-2026-by-AffairsCloud-1-v01.pdf
+Question: World Water Monitoring Day was listed on which date?
+A. 17 September
+B. 18 September
+C. 21 September
+D. 22 September
+Correct answer: B
+Explanation: The PDF lists World Water Monitoring Day on 18 September.
+Memory tip: Pair the observance and date.
+
+TOPIC: Sports
+------------------------------------------------------------
+ID: SEP22-SPORT-013
+Month: September 2026
+Topic: Sports
+Subtopic: Wushu
+Difficulty: Easy
+Source: Toppers-CA-September-22-2026-by-AffairsCloud-1-v01.pdf
+Question: Which championship is India set to host for the first time in 2028?
+A. Asian Senior Wushu Championships
+B. Asian Athletics Championships
+C. World Archery Championships
+D. Asian Fencing Championships
+Correct answer: A
+Explanation: The PDF says India will host the Asian Senior Wushu Championships for the first time in 2028.
+Memory tip: Wushu is a Chinese martial art and combat sport.
+
+TOPIC: State News
+------------------------------------------------------------
+ID: SEP22-STATE-014
+Month: September 2026
+Topic: State News
+Subtopic: Madhya Pradesh scheme
+Difficulty: Medium
+Source: Toppers-CA-September-22-2026-by-AffairsCloud-1-v01.pdf
+Question: Which state became the first to launch the Swamitva Adhikar Abhilekh Nispadan Evam Panjiyan Yojana 2026 for free rural property registration?
+A. Uttar Pradesh
+B. Madhya Pradesh
+C. Rajasthan
+D. Gujarat
+Correct answer: B
+Explanation: The headline identifies Madhya Pradesh.
+Memory tip: Associate the scheme with free rural property registration.
+
+ID: SEP22-ADD-021
+Month: September 2026
+Topic: State News
+Subtopic: Property registration
+Difficulty: Medium
+Source: Toppers-CA-September-22-2026-by-AffairsCloud-1-v01.pdf
+Question: What benefit was associated with Madhya Pradesh's Swamitva Adhikar Abhilekh Nispadan Evam Panjiyan Yojana 2026?
+A. Free rural property registration
+B. Interest-free crop loans
+C. Urban housing subsidies
+D. Free air travel
+Correct answer: A
+Explanation: The scheme was described as providing free rural property registration.
+Memory tip: Rural property registration is the key purpose.
+
+TOPIC: International Affairs
+------------------------------------------------------------
+ID: SEP22-ADD-017
+Month: September 2026
+Topic: International Affairs
+Subtopic: India–Bhutan visit
+Difficulty: Easy
+Source: Toppers-CA-September-22-2026-by-AffairsCloud-1-v01.pdf
+Question: Which Indian minister's visit to Bhutan from 16–18 September 2026 was covered in the 22 September PDF?
+A. S. Jaishankar
+B. Amit Shah
+C. Piyush Goyal
+D. Rajnath Singh
+Correct answer: A
+Explanation: The headline lists an overview of Union Minister Dr. S. Jaishankar's visit to Bhutan.
+Memory tip: Jaishankar is associated with India's external affairs portfolio.
+
+========================================================================================
+SOURCE PDF: Toppers-CA-September-23-2026-by-AffairsCloud-1-v01.pdf
+QUESTIONS FROM THIS PDF: 20
+========================================================================================
+
+TOPIC: Science and Technology
+------------------------------------------------------------
+ID: SEP23-TECH-001
+Month: September 2026
+Topic: Science and Technology
+Subtopic: Semiconductors
+Difficulty: Easy
+Source: Toppers-CA-September-23-2026-by-AffairsCloud-1-v01.pdf
+Question: Who inaugurated the 5th SEMICON India 2026, according to the PDF?
+A. President of India
+B. Prime Minister Narendra Modi
+C. Union Finance Minister
+D. Minister of Commerce
+Correct answer: B
+Explanation: The headline says PM Narendra Modi inaugurated the event in New Delhi.
+Memory tip: SEMICON India is linked to the semiconductor ecosystem.
+
+TOPIC: National Affairs
+------------------------------------------------------------
+ID: SEP23-NAT-002
+Month: September 2026
+Topic: National Affairs
+Subtopic: Mining welfare
+Difficulty: Medium
+Source: Toppers-CA-September-23-2026-by-AffairsCloud-1-v01.pdf
+Question: PMKKKY completed how many years, according to the 23 September current-affairs PDF?
+A. 8 years
+B. 9 years
+C. 10 years
+D. 11 years
+Correct answer: D
+Explanation: The headline states that Pradhan Mantri Khanij Kshetra Kalyan Yojana completed 11 years.
+Memory tip: PMKKKY is associated with mining-affected areas and District Mineral Foundations.
+
+ID: SEP23-NAT-003
+Month: September 2026
+Topic: National Affairs
+Subtopic: PMKKKY statistics
+Difficulty: Medium
+Source: Toppers-CA-September-23-2026-by-AffairsCloud-1-v01.pdf
+Question: How many projects had been sanctioned under PMKKKY, as reported in the PDF?
+A. 1.70 lakh
+B. 3.20 lakh
+C. 4.70 lakh
+D. 6.70 lakh
+Correct answer: C
+Explanation: The PDF reports over 4.70 lakh projects sanctioned.
+Memory tip: Keep project count distinct from amount sanctioned.
+
+ID: SEP23-NAT-007
+Month: September 2026
+Topic: National Affairs
+Subtopic: Rural sanitation
+Difficulty: Medium
+Source: Toppers-CA-September-23-2026-by-AffairsCloud-1-v01.pdf
+Question: Who launched Swachh Seva Aankalan for rural sanitation?
+A. C. R. Patil
+B. Manohar Lal
+C. Jitendra Singh
+D. Amit Shah
+Correct answer: A
+Explanation: The PDF says Union Minister C. R. Patil launched the initiative.
+Memory tip: Connect the initiative to rural sanitation.
+
+ID: SEP23-NAT-008
+Month: September 2026
+Topic: National Affairs
+Subtopic: Weather infrastructure
+Difficulty: Medium
+Source: Toppers-CA-September-23-2026-by-AffairsCloud-1-v01.pdf
+Question: Where was the 51st Doppler Weather Radar inaugurated?
+A. Sambalpur, Odisha
+B. Gandhinagar, Gujarat
+C. Jodhpur, Rajasthan
+D. Patna, Bihar
+Correct answer: A
+Explanation: The PDF reports its inauguration at Sambalpur, Odisha.
+Memory tip: Doppler weather radar supports weather observation and forecasting.
+
+ID: SEP23-NAT-009
+Month: September 2026
+Topic: National Affairs
+Subtopic: LPG authentication
+Difficulty: Medium
+Source: Toppers-CA-September-23-2026-by-AffairsCloud-1-v01.pdf
+Question: From which date was biometric Aadhaar authentication made mandatory for subsidised LPG refill booking, according to the PDF?
+A. 1 September 2026
+B. 1 October 2026
+C. 1 January 2027
+D. 1 April 2027
+Correct answer: B
+Explanation: The measure was reported to take effect from 1 October 2026.
+Memory tip: Distinguish announcement date from effective date.
+
+ID: SEP23-ADD-015
+Month: September 2026
+Topic: National Affairs
+Subtopic: PMKKKY
+Difficulty: Medium
+Source: Toppers-CA-September-23-2026-by-AffairsCloud-1-v01.pdf
+Question: PMKKKY is primarily associated with which type of areas?
+A. Mining-affected areas
+B. Coastal fishing villages
+C. Urban technology parks
+D. Border tourism districts
+Correct answer: A
+Explanation: The scheme supports welfare and development in mining-affected areas.
+Memory tip: Mining-related scheme = district mineral welfare.
+
+ID: SEP23-ADD-016
+Month: September 2026
+Topic: National Affairs
+Subtopic: PMKKKY
+Difficulty: Hard
+Source: Toppers-CA-September-23-2026-by-AffairsCloud-1-v01.pdf
+Question: Which body is associated with implementing mining-area welfare projects under PMKKKY?
+A. District Mineral Foundation
+B. National Green Tribunal
+C. National Health Authority
+D. Airports Authority of India
+Correct answer: A
+Explanation: The source links PMKKKY with District Mineral Foundations.
+Memory tip: DMF = District Mineral Foundation.
+
+TOPIC: Sports and Youth Affairs
+------------------------------------------------------------
+ID: SEP23-SPORT-004
+Month: September 2026
+Topic: Sports and Youth Affairs
+Subtopic: Anti-drug campaign
+Difficulty: Easy
+Source: Toppers-CA-September-23-2026-by-AffairsCloud-1-v01.pdf
+Question: Which ministry launched the 100 Weeks Nasha Mukt Yuva Abhiyan?
+A. Ministry of Youth Affairs and Sports
+B. Ministry of Education
+C. Ministry of Home Affairs
+D. Ministry of Rural Development
+Correct answer: A
+Explanation: The headline attributes the campaign to MYAS, the Ministry of Youth Affairs and Sports.
+Memory tip: Nasha Mukt Yuva Abhiyan targets youth and substance-abuse awareness.
+
+TOPIC: Defence
+------------------------------------------------------------
+ID: SEP23-DEF-005
+Month: September 2026
+Topic: Defence
+Subtopic: Military exercise
+Difficulty: Easy
+Source: Toppers-CA-September-23-2026-by-AffairsCloud-1-v01.pdf
+Question: What is the name of the 18th India–Mongolia joint military exercise mentioned in the PDF?
+A. SLINEX
+B. NOMADIC ELEPHANT
+C. VARUNA
+D. TARANG SHAKTI
+Correct answer: B
+Explanation: The PDF names the exercise NOMADIC ELEPHANT.
+Memory tip: NOMADIC ELEPHANT = India–Mongolia; SLINEX = India–Sri Lanka.
+
+ID: SEP23-DEF-006
+Month: September 2026
+Topic: Defence
+Subtopic: Defence procurement
+Difficulty: Medium
+Source: Toppers-CA-September-23-2026-by-AffairsCloud-1-v01.pdf
+Question: The Ministry of Defence signed a Rs 586 crore contract with AICPL for APUs for which tanks?
+A. Arjun and T-55
+B. T-72 and T-90
+C. K9 Vajra and T-90
+D. BMP-2 and Arjun
+Correct answer: B
+Explanation: The contract covers auxiliary power units for T-72 and T-90 tanks.
+Memory tip: APU means Auxiliary Power Unit.
+
+ID: SEP23-ADD-017
+Month: September 2026
+Topic: Defence
+Subtopic: Military exercise
+Difficulty: Medium
+Source: Toppers-CA-September-23-2026-by-AffairsCloud-1-v01.pdf
+Question: In which Indian state did the 18th India–Mongolia exercise NOMADIC ELEPHANT begin?
+A. Uttarakhand
+B. Rajasthan
+C. Assam
+D. Andhra Pradesh
+Correct answer: A
+Explanation: The headline says the exercise began in Uttarakhand.
+Memory tip: NOMADIC ELEPHANT is the India–Mongolia exercise.
+
+ID: SEP23-ADD-018
+Month: September 2026
+Topic: Defence
+Subtopic: Naval shipbuilding
+Difficulty: Medium
+Source: Toppers-CA-September-23-2026-by-AffairsCloud-1-v01.pdf
+Question: Nibe signed an MoU with which French company for naval shipbuilding and defence technologies?
+A. Naval Group
+B. Thales
+C. Dassault Aviation
+D. Safran
+Correct answer: A
+Explanation: The headline identifies France's Naval Group.
+Memory tip: Naval Group is associated with naval shipbuilding.
+
+TOPIC: International Affairs
+------------------------------------------------------------
+ID: SEP23-INT-010
+Month: September 2026
+Topic: International Affairs
+Subtopic: Gender equality report
+Difficulty: Medium
+Source: Toppers-CA-September-23-2026-by-AffairsCloud-1-v01.pdf
+Question: Which two organizations released 'The Gender Snapshot 2026'?
+A. UN Women and UN DESA
+B. UNDP and UNESCO
+C. WHO and UNICEF
+D. ILO and IMF
+Correct answer: A
+Explanation: The PDF identifies UN Women and the UN Department of Economic and Social Affairs.
+Memory tip: UN DESA = United Nations Department of Economic and Social Affairs.
+
+ID: SEP23-ADD-019
+Month: September 2026
+Topic: International Affairs
+Subtopic: G20 energy meeting
+Difficulty: Medium
+Source: Toppers-CA-September-23-2026-by-AffairsCloud-1-v01.pdf
+Question: In which US city was the G20 Energy Abundance Ministerial Meeting 2026 held?
+A. Houston
+B. New York
+C. Washington, D.C.
+D. Chicago
+Correct answer: A
+Explanation: The PDF says Manohar Lal led India at the meeting in Houston, USA.
+Memory tip: Houston is the city named in the source.
+
+TOPIC: Banking and Economy
+------------------------------------------------------------
+ID: SEP23-BANK-011
+Month: September 2026
+Topic: Banking and Economy
+Subtopic: RBI regulation
+Difficulty: Hard
+Source: Toppers-CA-September-23-2026-by-AffairsCloud-1-v01.pdf
+Question: Which regulator released final directions on capital requirements for market risk and eased KYC norms for FPIs?
+A. SEBI
+B. IRDAI
+C. RBI
+D. PFRDA
+Correct answer: C
+Explanation: The headline attributes both actions to the Reserve Bank of India.
+Memory tip: RBI regulates banks and specified financial entities; SEBI regulates securities markets.
+
+ID: SEP23-BANK-012
+Month: September 2026
+Topic: Banking and Economy
+Subtopic: NBFC regulation
+Difficulty: Medium
+Source: Toppers-CA-September-23-2026-by-AffairsCloud-1-v01.pdf
+Question: How many NBFC licences did the RBI cancel, according to the 23 September PDF?
+A. 3
+B. 5
+C. 8
+D. 13
+Correct answer: B
+Explanation: The headline says RBI cancelled licences of five NBFCs; eight others surrendered registrations.
+Memory tip: Do not confuse cancelled licences with surrendered registrations.
+
+ID: SEP23-BANK-013
+Month: September 2026
+Topic: Banking and Economy
+Subtopic: Cross-border remittances
+Difficulty: Medium
+Source: Toppers-CA-September-23-2026-by-AffairsCloud-1-v01.pdf
+Question: Which company received RBI approval for cross-border trade remittances?
+A. RNFI Money
+B. PayGlocal
+C. Samvriddhi Inclusive
+D. TBX
+Correct answer: A
+Explanation: The headline names RNFI Money.
+Memory tip: Cross-border trade remittances are distinct from online payment-aggregator approval.
+
+TOPIC: Appointments
+------------------------------------------------------------
+ID: SEP23-APPT-014
+Month: September 2026
+Topic: Appointments
+Subtopic: International organization
+Difficulty: Medium
+Source: Toppers-CA-September-23-2026-by-AffairsCloud-1-v01.pdf
+Question: Who was appointed Executive Director of the World Food Programme for a five-year term?
+A. Luke J. Lindberg
+B. Jayanti Prasad
+C. G. Vijayaraghavan
+D. Harsh Sanghani
+Correct answer: A
+Explanation: The PDF reports Luke J. Lindberg's appointment as WFP Executive Director.
+Memory tip: WFP = World Food Programme.
+
+ID: SEP23-ADD-020
+Month: September 2026
+Topic: Appointments
+Subtopic: IBBI
+Difficulty: Medium
+Source: Toppers-CA-September-23-2026-by-AffairsCloud-1-v01.pdf
+Question: Who took additional charge as Chairperson of IBBI?
+A. Jayanti Prasad
+B. Luke J. Lindberg
+C. Harsh Sanghani
+D. Mandeep K. Bhandari
+Correct answer: A
+Explanation: The headline names Jayanti Prasad.
+Memory tip: IBBI = Insolvency and Bankruptcy Board of India.
+
+========================================================================================
+SOURCE PDF: Toppers-CA-September-24-2026-by-AffairsCloud-1-v01.pdf
+QUESTIONS FROM THIS PDF: 19
+========================================================================================
+
+TOPIC: National Affairs
+------------------------------------------------------------
+ID: SEP24-NAT-001
+Month: September 2026
+Topic: National Affairs
+Subtopic: UDAN
+Difficulty: Easy
+Source: Toppers-CA-September-24-2026-by-AffairsCloud-1-v01.pdf
+Question: Which ministry launched the next phase of UDAN with MoUs involving 22 States/UTs?
+A. Ministry of Civil Aviation
+B. Ministry of Railways
+C. Ministry of Tourism
+D. Ministry of Commerce
+Correct answer: A
+Explanation: The Ministry of Civil Aviation launched the next phase of UDAN.
+Memory tip: UDAN supports regional air connectivity.
+
+ID: SEP24-ADD-013
+Month: September 2026
+Topic: National Affairs
+Subtopic: UDAN
+Difficulty: Medium
+Source: Toppers-CA-September-24-2026-by-AffairsCloud-1-v01.pdf
+Question: How many States/UTs were involved in MoUs for the next phase of UDAN?
+A. 12
+B. 18
+C. 22
+D. 28
+Correct answer: C
+Explanation: The headline says MoUs with 22 States/UTs.
+Memory tip: UDAN = regional air connectivity.
+
+TOPIC: Polity
+------------------------------------------------------------
+ID: SEP24-NAT-002
+Month: September 2026
+Topic: Polity
+Subtopic: Inter-State Council
+Difficulty: Hard
+Source: Toppers-CA-September-24-2026-by-AffairsCloud-1-v01.pdf
+Question: The President amended the Inter-State Council order to include which officials in meetings during President's Rule?
+A. Chief Secretaries only
+B. Governors and Lieutenant Governors
+C. Mayors and District Collectors
+D. Chief Justices of High Courts
+Correct answer: B
+Explanation: The PDF headline specifically mentions Governors and Lieutenant Governors.
+Memory tip: The Inter-State Council concerns Centre–State coordination.
+
+ID: SEP24-ADD-014
+Month: September 2026
+Topic: Polity
+Subtopic: Inter-State Council
+Difficulty: Medium
+Source: Toppers-CA-September-24-2026-by-AffairsCloud-1-v01.pdf
+Question: On whose recommendation was the Inter-State Council established in 1990, according to the notes?
+A. Sarkaria Commission
+B. Punchhi Commission
+C. Mandal Commission
+D. Finance Commission
+Correct answer: A
+Explanation: The notes state it was established in 1990 on the Sarkaria Commission recommendation.
+Memory tip: Sarkaria Commission is linked with Centre–State relations.
+
+TOPIC: Environment
+------------------------------------------------------------
+ID: SEP24-ENV-003
+Month: September 2026
+Topic: Environment
+Subtopic: Circular economy
+Difficulty: Medium
+Source: Toppers-CA-September-24-2026-by-AffairsCloud-1-v01.pdf
+Question: Where was the World Circular Economy Forum 2026 held?
+A. Gandhinagar, Gujarat
+B. New Delhi, Delhi
+C. Srinagar, J&K
+D. Bengaluru, Karnataka
+Correct answer: A
+Explanation: The PDF reports the forum in Gandhinagar, Gujarat.
+Memory tip: Circular economy emphasizes resource reuse and waste reduction.
+
+ID: SEP24-ADD-016
+Month: September 2026
+Topic: Environment
+Subtopic: Water report
+Difficulty: Medium
+Source: Toppers-CA-September-24-2026-by-AffairsCloud-1-v01.pdf
+Question: For how many consecutive years did the WMO report say global glacier mass loss continued?
+A. Two
+B. Three
+C. Four
+D. Five
+Correct answer: C
+Explanation: The headline says global glacier mass loss continued for a fourth consecutive year.
+Memory tip: WMO report = global water resources.
+
+TOPIC: Science and Technology
+------------------------------------------------------------
+ID: SEP24-SPACE-004
+Month: September 2026
+Topic: Science and Technology
+Subtopic: ISRO facility
+Difficulty: Medium
+Source: Toppers-CA-September-24-2026-by-AffairsCloud-1-v01.pdf
+Question: Which state chief minister laid the foundation stone for ISRO's advanced radar facility in Assam?
+A. Himanta Biswa Sarma
+B. Yogi Adityanath
+C. Pema Khandu
+D. Bhupendra Patel
+Correct answer: A
+Explanation: The headline names Assam Chief Minister Himanta Biswa Sarma.
+Memory tip: The facility is associated with ISRO and Assam.
+
+TOPIC: Education and Technology
+------------------------------------------------------------
+ID: SEP24-EDU-005
+Month: September 2026
+Topic: Education and Technology
+Subtopic: Electric mobility
+Difficulty: Medium
+Source: Toppers-CA-September-24-2026-by-AffairsCloud-1-v01.pdf
+Question: Which institutions signed an MoU for electric-mobility research collaboration?
+A. IIT-BHU and University of Michigan
+B. IIT Delhi and TCS
+C. IIIT-Bangalore and TCA
+D. NIT Srinagar and ISRO
+Correct answer: A
+Explanation: The PDF names IIT-BHU and the University of Michigan.
+Memory tip: Match the collaboration to electric-mobility research.
+
+TOPIC: Telecom
+------------------------------------------------------------
+ID: SEP24-TECH-006
+Month: September 2026
+Topic: Telecom
+Subtopic: Government restructuring
+Difficulty: Hard
+Source: Toppers-CA-September-24-2026-by-AffairsCloud-1-v01.pdf
+Question: What happened to the Digital Communications Commission, according to the PDF?
+A. It was renamed TRAI
+B. It was dissolved after 37 years
+C. It merged with ISRO
+D. It became a private company
+Correct answer: B
+Explanation: The headline reports the Government dissolved the Digital Communications Commission after 37 years.
+Memory tip: This is a governance/restructuring fact, not a new telecom regulator.
+
+TOPIC: Education
+------------------------------------------------------------
+ID: SEP24-EDU-007
+Month: September 2026
+Topic: Education
+Subtopic: Astronomy
+Difficulty: Medium
+Source: Toppers-CA-September-24-2026-by-AffairsCloud-1-v01.pdf
+Question: Which institution became the first NIT in India with a campus-based astronomical observatory?
+A. NIT Srinagar
+B. NIT Trichy
+C. NIT Warangal
+D. NIT Rourkela
+Correct answer: A
+Explanation: The PDF names NIT Srinagar.
+Memory tip: Remember institution plus first-of-its-kind distinction.
+
+TOPIC: Economy and Business
+------------------------------------------------------------
+ID: SEP24-ENERGY-008
+Month: September 2026
+Topic: Economy and Business
+Subtopic: Solar energy
+Difficulty: Medium
+Source: Toppers-CA-September-24-2026-by-AffairsCloud-1-v01.pdf
+Question: Which company commissioned India's largest solar-cell facility, taking total capacity to 10.6 GW?
+A. Premier Energies
+B. NTPC
+C. Tata Power
+D. Adani Green Energy
+Correct answer: A
+Explanation: The headline identifies Premier Energies.
+Memory tip: Solar-cell manufacturing capacity is not the same as installed solar power generation.
+
+ID: SEP24-ECO-010
+Month: September 2026
+Topic: Economy and Business
+Subtopic: GDP forecast
+Difficulty: Medium
+Source: Toppers-CA-September-24-2026-by-AffairsCloud-1-v01.pdf
+Question: What FY27 GDP growth forecast for India did S&P Global Ratings report in its Asia-Pacific Q4 2026 outlook?
+A. 6.2%
+B. 6.5%
+C. 7.0%
+D. 7.8%
+Correct answer: C
+Explanation: The headline reports a 7.0% forecast.
+Memory tip: Forecasts are agency- and report-specific; don't mix with Fitch or Moody's.
+
+ID: SEP24-ADD-017
+Month: September 2026
+Topic: Economy and Business
+Subtopic: Business climate survey
+Difficulty: Medium
+Source: Toppers-CA-September-24-2026-by-AffairsCloud-1-v01.pdf
+Question: India topped the global business climate survey 2026 among how many markets?
+A. 31
+B. 41
+C. 51
+D. 61
+Correct answer: B
+Explanation: The headline says India was the best-performing market among 41 countries/markets.
+Memory tip: Remember the rank and total market count together.
+
+TOPIC: International Affairs
+------------------------------------------------------------
+ID: SEP24-ENV-009
+Month: September 2026
+Topic: International Affairs
+Subtopic: Water resources report
+Difficulty: Medium
+Source: Toppers-CA-September-24-2026-by-AffairsCloud-1-v01.pdf
+Question: Which organization released the State of Global Water Resources 2025 report?
+A. WMO
+B. UNESCO
+C. UNEP
+D. World Bank
+Correct answer: A
+Explanation: The report is attributed to the World Meteorological Organization.
+Memory tip: WMO focuses on meteorology, climate and water.
+
+TOPIC: Banking and Economy
+------------------------------------------------------------
+ID: SEP24-BANK-011
+Month: September 2026
+Topic: Banking and Economy
+Subtopic: Insurance stake
+Difficulty: Medium
+Source: Toppers-CA-September-24-2026-by-AffairsCloud-1-v01.pdf
+Question: J&K Bank signed an escrow agreement to sell a 0.5% stake in which company?
+A. PNB MetLife
+B. ICICI Life Insurance
+C. SBI Life
+D. HDFC Life
+Correct answer: A
+Explanation: The PDF names PNB MetLife and a 0.5% stake sale.
+Memory tip: Escrow arrangements support controlled handling of transactions.
+
+ID: SEP24-ADD-018
+Month: September 2026
+Topic: Banking and Economy
+Subtopic: Mastercard stake sale
+Difficulty: Hard
+Source: Toppers-CA-September-24-2026-by-AffairsCloud-1-v01.pdf
+Question: What percentage stake did Mastercard sell in Pine Labs, according to the PDF?
+A. 2.31%
+B. 4.31%
+C. 5.31%
+D. 6.31%
+Correct answer: B
+Explanation: The headline reports a 4.31% stake sale worth Rs 933 crore.
+Memory tip: 4.31% and Rs 933 crore are the paired figures.
+
+TOPIC: Appointments
+------------------------------------------------------------
+ID: SEP24-APPT-012
+Month: September 2026
+Topic: Appointments
+Subtopic: Professional body
+Difficulty: Easy
+Source: Toppers-CA-September-24-2026-by-AffairsCloud-1-v01.pdf
+Question: Who was re-elected President of the ICA Youth Committee for a second term?
+A. Harsh Sanghani
+B. Jayanti Prasad
+C. Mandeep K. Bhandari
+D. Dinesh Pant
+Correct answer: A
+Explanation: The 24 September headline names Harsh Sanghani.
+Memory tip: Keep appointment names linked to the correct body.
+
+TOPIC: Energy
+------------------------------------------------------------
+ID: SEP24-ADD-015
+Month: September 2026
+Topic: Energy
+Subtopic: Solar manufacturing
+Difficulty: Hard
+Source: Toppers-CA-September-24-2026-by-AffairsCloud-1-v01.pdf
+Question: What was the capital expenditure reported for Premier Energies' 101-acre solar-cell facility?
+A. Rs 1,293 crore
+B. Rs 2,293 crore
+C. Rs 3,293 crore
+D. Rs 4,293 crore
+Correct answer: C
+Explanation: The detailed content gives a capital expenditure of Rs 3,293 crore.
+Memory tip: Keep the facility's area and capex as separate facts.
+
+TOPIC: Sports
+------------------------------------------------------------
+ID: SEP24-ADD-019
+Month: September 2026
+Topic: Sports
+Subtopic: Cricket
+Difficulty: Easy
+Source: Toppers-CA-September-24-2026-by-AffairsCloud-1-v01.pdf
+Question: Which England fast bowler retired from international cricket after an 11-year career?
+A. Mark Wood
+B. James Anderson
+C. Jofra Archer
+D. Stuart Broad
+Correct answer: A
+Explanation: The headline identifies Mark Wood.
+Memory tip: Retirement facts are common current-affairs recall questions.
+
+========================================================================================
+SOURCE PDF: Toppers-CA-September-25-2026-by-AffairsCloud-1-v01.pdf
+QUESTIONS FROM THIS PDF: 20
+========================================================================================
+
+TOPIC: National Affairs
+------------------------------------------------------------
+ID: SEP25-HEALTH-001
+Month: September 2026
+Topic: National Affairs
+Subtopic: Ayushman Bharat
+Difficulty: Easy
+Source: Toppers-CA-September-25-2026-by-AffairsCloud-1-v01.pdf
+Question: How many years did AB PM-JAY complete, according to the 25 September PDF?
+A. 5 years
+B. 6 years
+C. 8 years
+D. 10 years
+Correct answer: C
+Explanation: The headline says the scheme completed eight years.
+Memory tip: PM-JAY is India's publicly funded health assurance scheme.
+
+ID: SEP25-HEALTH-002
+Month: September 2026
+Topic: National Affairs
+Subtopic: Ayushman Bharat
+Difficulty: Medium
+Source: Toppers-CA-September-25-2026-by-AffairsCloud-1-v01.pdf
+Question: More than how many beneficiaries were reported under AB PM-JAY?
+A. 20 crore
+B. 40 crore
+C. 60 crore
+D. 80 crore
+Correct answer: C
+Explanation: The headline reports over 60 crore beneficiaries.
+Memory tip: Use the source's scale figure as a headline-level fact.
+
+ID: SEP25-NAT-004
+Month: September 2026
+Topic: National Affairs
+Subtopic: Anti-narcotics
+Difficulty: Medium
+Source: Toppers-CA-September-25-2026-by-AffairsCloud-1-v01.pdf
+Question: Who inaugurated the 3rd ANTF Conference 2026 and set a Drug-Free India target by 2029?
+A. Amit Shah
+B. C. R. Patil
+C. J. P. Nadda
+D. Manohar Lal
+Correct answer: A
+Explanation: The PDF names Union Home Minister Amit Shah.
+Memory tip: ANTF relates to anti-narcotics task-force coordination.
+
+ID: SEP25-STAND-005
+Month: September 2026
+Topic: National Affairs
+Subtopic: BIS standards
+Difficulty: Medium
+Source: Toppers-CA-September-25-2026-by-AffairsCloud-1-v01.pdf
+Question: From when did the government mandate BIS certification for smartphone screen protectors, according to the PDF?
+A. April 2027
+B. October 2026
+C. January 2027
+D. April 2026
+Correct answer: A
+Explanation: The headline gives April 2027 as the effective period.
+Memory tip: BIS certification concerns product standards and quality.
+
+TOPIC: Economy and Business
+------------------------------------------------------------
+ID: SEP25-TRADE-003
+Month: September 2026
+Topic: Economy and Business
+Subtopic: India–New Zealand FTA
+Difficulty: Medium
+Source: Toppers-CA-September-25-2026-by-AffairsCloud-1-v01.pdf
+Question: When was the India–New Zealand FTA reported to enter into force?
+A. April 2027
+B. October 2026
+C. January 2028
+D. December 2026
+Correct answer: B
+Explanation: The headline says it would enter into force from October 2026.
+Memory tip: FTA = Free Trade Agreement.
+
+ID: SEP25-ECO-009
+Month: September 2026
+Topic: Economy and Business
+Subtopic: GDP forecast
+Difficulty: Medium
+Source: Toppers-CA-September-25-2026-by-AffairsCloud-1-v01.pdf
+Question: What FY27 GDP growth forecast did Fitch Ratings give India?
+A. 6.4%
+B. 6.7%
+C. 6.9%
+D. 7.2%
+Correct answer: C
+Explanation: The headline reports Fitch raised the forecast to 6.9%.
+Memory tip: Keep this separate from other agencies' 7.0% or 7.1% estimates.
+
+TOPIC: Defence
+------------------------------------------------------------
+ID: SEP25-DEF-006
+Month: September 2026
+Topic: Defence
+Subtopic: Defence procurement
+Difficulty: Hard
+Source: Toppers-CA-September-25-2026-by-AffairsCloud-1-v01.pdf
+Question: The Ministry of Defence signed a Rs 810.79 crore contract with BDL for how many SAT-SAAW systems for the IAF?
+A. 80
+B. 120
+C. 160
+D. 200
+Correct answer: C
+Explanation: The headline reports 160 SAT-SAAW systems.
+Memory tip: Remember the three linked details: BDL, Rs 810.79 crore, 160 systems.
+
+TOPIC: Banking and Economy
+------------------------------------------------------------
+ID: SEP25-BANK-007
+Month: September 2026
+Topic: Banking and Economy
+Subtopic: Insurance company
+Difficulty: Easy
+Source: Toppers-CA-September-25-2026-by-AffairsCloud-1-v01.pdf
+Question: ICICI Prudential Life Insurance was renamed what, according to the PDF?
+A. ICICI Life Insurance
+B. ICICI General Insurance
+C. ICICI Bharat Life
+D. Prudential India Insurance
+Correct answer: A
+Explanation: The headline says the name changed to ICICI Life Insurance.
+Memory tip: Company-name changes are common one-line exam facts.
+
+ID: SEP25-BANK-008
+Month: September 2026
+Topic: Banking and Economy
+Subtopic: Bill payments
+Difficulty: Medium
+Source: Toppers-CA-September-25-2026-by-AffairsCloud-1-v01.pdf
+Question: Which company launched B2B bill payments on TrustHub via Bharat Connect?
+A. TBX
+B. RNFI Money
+C. PayGlocal
+D. Samvriddhi Inclusive
+Correct answer: A
+Explanation: The PDF names TBX.
+Memory tip: B2B = business-to-business.
+
+TOPIC: Awards and Business
+------------------------------------------------------------
+ID: SEP25-WEALTH-010
+Month: September 2026
+Topic: Awards and Business
+Subtopic: Rich list
+Difficulty: Easy
+Source: Toppers-CA-September-25-2026-by-AffairsCloud-1-v01.pdf
+Question: Who topped the overall M3M Hurun India Rich List 2026?
+A. Gautam Adani
+B. Mukesh Ambani
+C. Shah Rukh Khan
+D. Kumar Mangalam Birla
+Correct answer: A
+Explanation: The headline identifies Gautam Adani as the overall leader.
+Memory tip: The same headline says Shah Rukh Khan led the entertainers and cricketers' group.
+
+TOPIC: Sports
+------------------------------------------------------------
+ID: SEP25-SPORT-011
+Month: September 2026
+Topic: Sports
+Subtopic: Cycling
+Difficulty: Medium
+Source: Toppers-CA-September-25-2026-by-AffairsCloud-1-v01.pdf
+Question: Which major cycling event is India set to host for the first time in 2032?
+A. UCI Road World Championships
+B. Tour de France
+C. UCI Track World Cup
+D. Asian Mountain Bike Cup
+Correct answer: A
+Explanation: The PDF reports India will host the UCI Road World Championships in 2032.
+Memory tip: UCI is the international governing body for cycling.
+
+TOPIC: State News
+------------------------------------------------------------
+ID: SEP25-STATE-012
+Month: September 2026
+Topic: State News
+Subtopic: Women mobility
+Difficulty: Medium
+Source: Toppers-CA-September-25-2026-by-AffairsCloud-1-v01.pdf
+Question: Which city approved the DURGA Scheme for 1,300 pink e-autos for women and transgender persons?
+A. Delhi
+B. Mumbai
+C. Lucknow
+D. Jaipur
+Correct answer: A
+Explanation: The headline identifies the Delhi Cabinet.
+Memory tip: Pink e-autos are the distinctive scheme detail.
+
+TOPIC: Important Days
+------------------------------------------------------------
+ID: SEP25-ENV-013
+Month: September 2026
+Topic: Important Days
+Subtopic: Wildlife
+Difficulty: Easy
+Source: Toppers-CA-September-25-2026-by-AffairsCloud-1-v01.pdf
+Question: International Red Panda Day 2026 was listed on which date?
+A. 19 September
+B. 21 September
+C. 22 September
+D. 25 September
+Correct answer: A
+Explanation: The PDF lists International Red Panda Day on 19 September.
+Memory tip: This is a date-based current-affairs fact.
+
+ID: SEP25-INT-014
+Month: September 2026
+Topic: Important Days
+Subtopic: Peace
+Difficulty: Easy
+Source: Toppers-CA-September-25-2026-by-AffairsCloud-1-v01.pdf
+Question: On which date was the International Day of Peace observed in the PDF?
+A. 18 September
+B. 19 September
+C. 21 September
+D. 24 September
+Correct answer: C
+Explanation: The PDF lists the International Day of Peace on 21 September.
+Memory tip: Pair the observance with its date.
+
+TOPIC: Health
+------------------------------------------------------------
+ID: SEP25-ADD-015
+Month: September 2026
+Topic: Health
+Subtopic: AB PM-JAY
+Difficulty: Hard
+Source: Toppers-CA-September-25-2026-by-AffairsCloud-1-v01.pdf
+Question: How many medical specialties were covered by the 1,961 procedures listed under AB PM-JAY in the PDF?
+A. 17
+B. 21
+C. 27
+D. 31
+Correct answer: C
+Explanation: The detailed content says 1,961 procedures across 27 medical specialties.
+Memory tip: 1,961 procedures; 27 specialties.
+
+ID: SEP25-ADD-016
+Month: September 2026
+Topic: Health
+Subtopic: AB PM-JAY
+Difficulty: Hard
+Source: Toppers-CA-September-25-2026-by-AffairsCloud-1-v01.pdf
+Question: How many empanelled public and private hospitals were reported under AB PM-JAY?
+A. Over 18,000
+B. Over 28,000
+C. Over 38,000
+D. Over 48,000
+Correct answer: C
+Explanation: The PDF reports a network of over 38,000 hospitals.
+Memory tip: Distinguish hospital count from Ayushman-card count.
+
+TOPIC: Trade
+------------------------------------------------------------
+ID: SEP25-ADD-017
+Month: September 2026
+Topic: Trade
+Subtopic: India–New Zealand FTA
+Difficulty: Hard
+Source: Toppers-CA-September-25-2026-by-AffairsCloud-1-v01.pdf
+Question: What annual number of work visas was highlighted in the India–New Zealand FTA notes?
+A. 1,000
+B. 3,000
+C. 5,000
+D. 10,000
+Correct answer: C
+Explanation: The notes list 5,000 work visas and 1,000 holiday visas per year.
+Memory tip: Work visas 5,000; holiday visas 1,000.
+
+ID: SEP25-ADD-018
+Month: September 2026
+Topic: Trade
+Subtopic: India–New Zealand FTA
+Difficulty: Hard
+Source: Toppers-CA-September-25-2026-by-AffairsCloud-1-v01.pdf
+Question: What bilateral trade target did India and New Zealand set for 2030 in the notes?
+A. Rs 15,000 crore
+B. Rs 25,000 crore
+C. Rs 35,000 crore
+D. Rs 50,000 crore
+Correct answer: C
+Explanation: The notes state a target of Rs 35,000 crore by 2030.
+Memory tip: Pair FTA with the 2030 trade target.
+
+TOPIC: Standards
+------------------------------------------------------------
+ID: SEP25-ADD-019
+Month: September 2026
+Topic: Standards
+Subtopic: BIS certification
+Difficulty: Medium
+Source: Toppers-CA-September-25-2026-by-AffairsCloud-1-v01.pdf
+Question: What was the reported transition deadline for smartphone screen-protector BIS compliance?
+A. 31 December 2026
+B. 31 March 2027
+C. 30 June 2027
+D. 31 December 2027
+Correct answer: B
+Explanation: The detailed content gives 31 March 2027 as the transition deadline.
+Memory tip: Effective date and transition deadline can differ.
+
+TOPIC: Awards and Recognitions
+------------------------------------------------------------
+ID: SEP25-ADD-020
+Month: September 2026
+Topic: Awards and Recognitions
+Subtopic: Hurun Rich List
+Difficulty: Medium
+Source: Toppers-CA-September-25-2026-by-AffairsCloud-1-v01.pdf
+Question: Who led the entertainers and cricketers' group in the M3M Hurun India Rich List 2026?
+A. Shah Rukh Khan
+B. Gautam Adani
+C. Mukesh Ambani
+D. Kumar Mangalam Birla
+Correct answer: A
+Explanation: The headline says Shah Rukh Khan led the entertainers and cricketers' group.
+Memory tip: Overall list leader: Gautam Adani; entertainers/cricketers: Shah Rukh Khan.
+
+========================================================================================
+SOURCE PDF: Toppers-CA-September-26-2026-by-AffairsCloud-1-v01.pdf
+QUESTIONS FROM THIS PDF: 24
+========================================================================================
+
+TOPIC: Banking and Economy
+------------------------------------------------------------
+ID: SEP26-BANK-001
+Month: September 2026
+Topic: Banking and Economy
+Subtopic: Pension and health
+Difficulty: Hard
+Source: Toppers-CA-September-26-2026-by-AffairsCloud-1-v01.pdf
+Question: Which regulator issued operational guidelines for the NPS Swasthya health-insurance scheme?
+A. PFRDA
+B. RBI
+C. IRDAI
+D. SEBI
+Correct answer: A
+Explanation: The headline attributes the guidelines to the Pension Fund Regulatory and Development Authority.
+Memory tip: PFRDA oversees the National Pension System.
+
+ID: SEP26-BANK-008
+Month: September 2026
+Topic: Banking and Economy
+Subtopic: Investment valuation
+Difficulty: Hard
+Source: Toppers-CA-September-26-2026-by-AffairsCloud-1-v01.pdf
+Question: Which regulator issued directions to alter valuation norms for REITs and InvITs?
+A. RBI
+B. SEBI
+C. IRDAI
+D. PFRDA
+Correct answer: A
+Explanation: The headline attributes the directions to RBI.
+Memory tip: REITs are real-estate investment trusts; InvITs are infrastructure investment trusts.
+
+ID: SEP26-PAY-009
+Month: September 2026
+Topic: Banking and Economy
+Subtopic: Payment aggregator
+Difficulty: Medium
+Source: Toppers-CA-September-26-2026-by-AffairsCloud-1-v01.pdf
+Question: Which company secured RBI in-principle approval to operate as an online payment aggregator?
+A. Samvriddhi Inclusive
+B. PayGlocal
+C. TBX
+D. RNFI Money
+Correct answer: A
+Explanation: The PDF names Samvriddhi Inclusive Growth Network Pvt. Limited (SIGN).
+Memory tip: In-principle approval is not identical to a final operating licence.
+
+ID: SEP26-PAY-010
+Month: September 2026
+Topic: Banking and Economy
+Subtopic: Payments
+Difficulty: Medium
+Source: Toppers-CA-September-26-2026-by-AffairsCloud-1-v01.pdf
+Question: Which company received IFSCA in-principle approval to set up a PSP in GIFT City?
+A. PayGlocal
+B. SBI Card
+C. RNFI Money
+D. SIGN
+Correct answer: A
+Explanation: The headline names PayGlocal.
+Memory tip: IFSCA is the financial-services regulator for India's IFSCs.
+
+ID: SEP26-BANK-011
+Month: September 2026
+Topic: Banking and Economy
+Subtopic: Credit cards
+Difficulty: Easy
+Source: Toppers-CA-September-26-2026-by-AffairsCloud-1-v01.pdf
+Question: Where did SBI Card launch its FD-backed secured credit card 'Advantage SBI Card'?
+A. YONO app
+B. BHIM app
+C. Paytm app
+D. UMANG app
+Correct answer: A
+Explanation: The headline says it was launched on the YONO app.
+Memory tip: FD-backed cards use a fixed deposit as security.
+
+ID: SEP26-ADD-016
+Month: September 2026
+Topic: Banking and Economy
+Subtopic: NPS Swasthya
+Difficulty: Hard
+Source: Toppers-CA-September-26-2026-by-AffairsCloud-1-v01.pdf
+Question: Under the NPS Swasthya scheme, how many days of pre-hospitalisation expenses were covered?
+A. 15 days
+B. 30 days
+C. 45 days
+D. 60 days
+Correct answer: B
+Explanation: The detailed content specifies 30 days of pre-hospitalisation coverage.
+Memory tip: Pre = 30 days; post = 60 days.
+
+ID: SEP26-ADD-017
+Month: September 2026
+Topic: Banking and Economy
+Subtopic: NPS Swasthya
+Difficulty: Hard
+Source: Toppers-CA-September-26-2026-by-AffairsCloud-1-v01.pdf
+Question: How many days of post-hospitalisation expenses were covered under NPS Swasthya?
+A. 30 days
+B. 45 days
+C. 60 days
+D. 90 days
+Correct answer: C
+Explanation: The PDF specifies 60 days of post-hospitalisation coverage.
+Memory tip: Pre 30; post 60.
+
+ID: SEP26-ADD-018
+Month: September 2026
+Topic: Banking and Economy
+Subtopic: NPS Swasthya
+Difficulty: Hard
+Source: Toppers-CA-September-26-2026-by-AffairsCloud-1-v01.pdf
+Question: What road-ambulance expense limit was specified per emergency hospitalisation under NPS Swasthya?
+A. Rs 1,000
+B. Rs 2,500
+C. Rs 5,000
+D. Rs 10,000
+Correct answer: B
+Explanation: The detailed content states up to Rs 2,500 unless a higher uniform limit is specified.
+Memory tip: Remember the default ambulance cap: Rs 2,500.
+
+ID: SEP26-ADD-024
+Month: September 2026
+Topic: Banking and Economy
+Subtopic: SBI Card
+Difficulty: Medium
+Source: Toppers-CA-September-26-2026-by-AffairsCloud-1-v01.pdf
+Question: What type of deposit backs the Advantage SBI Card launched on YONO?
+A. Recurring deposit
+B. Fixed deposit
+C. Savings account balance only
+D. Public provident fund
+Correct answer: B
+Explanation: The headline describes it as a fixed-deposit-backed secured credit card.
+Memory tip: FD-backed means fixed deposit is the security.
+
+TOPIC: National Affairs
+------------------------------------------------------------
+ID: SEP26-EDU-002
+Month: September 2026
+Topic: National Affairs
+Subtopic: PM-SETU
+Difficulty: Medium
+Source: Toppers-CA-September-26-2026-by-AffairsCloud-1-v01.pdf
+Question: What amount was approved for the Kurukshetra ITI cluster under PM-SETU?
+A. Rs 120 crore
+B. Rs 220 crore
+C. Rs 320 crore
+D. Rs 520 crore
+Correct answer: C
+Explanation: The headline states Rs 320 crore.
+Memory tip: PM-SETU focuses on upgrading ITIs and skilling infrastructure.
+
+TOPIC: Economy and Business
+------------------------------------------------------------
+ID: SEP26-AUDIT-003
+Month: September 2026
+Topic: Economy and Business
+Subtopic: Sustainability standards
+Difficulty: Hard
+Source: Toppers-CA-September-26-2026-by-AffairsCloud-1-v01.pdf
+Question: Which standard did ICAI issue to align sustainability assurance with global standards?
+A. SSA 1000
+B. SSA 3000
+C. SSA 5000
+D. SSA 9000
+Correct answer: C
+Explanation: The PDF names SSA 5000.
+Memory tip: Remember SSA 5000 as the sustainability-assurance standard in this report.
+
+ID: SEP26-AVIATION-006
+Month: September 2026
+Topic: Economy and Business
+Subtopic: Airport connectivity
+Difficulty: Medium
+Source: Toppers-CA-September-26-2026-by-AffairsCloud-1-v01.pdf
+Question: What global connectivity rank did Delhi Airport reach in OAG Megahubs 2026?
+A. 18th
+B. 28th
+C. 38th
+D. 48th
+Correct answer: B
+Explanation: The headline says Delhi Airport rose to 28th.
+Memory tip: OAG Megahubs ranks airport connectivity.
+
+ID: SEP26-ENERGY-007
+Month: September 2026
+Topic: Economy and Business
+Subtopic: Electrification
+Difficulty: Hard
+Source: Toppers-CA-September-26-2026-by-AffairsCloud-1-v01.pdf
+Question: According to the IEA report cited, India's electrification rate could rise from 19% to what level by 2035?
+A. 24%
+B. 28%
+C. 32%
+D. 40%
+Correct answer: C
+Explanation: The headline gives a rise from 19% to 32% by 2035.
+Memory tip: Remember both baseline and projected figure.
+
+ID: SEP26-ECO-012
+Month: September 2026
+Topic: Economy and Business
+Subtopic: GDP forecast
+Difficulty: Medium
+Source: Toppers-CA-September-26-2026-by-AffairsCloud-1-v01.pdf
+Question: What FY27 GDP growth forecast did ADB give India in the 26 September PDF?
+A. 6.5%
+B. 6.8%
+C. 7.0%
+D. 7.5%
+Correct answer: C
+Explanation: The headline says ADB raised the forecast to 7%.
+Memory tip: ADB = Asian Development Bank.
+
+TOPIC: Science and Technology
+------------------------------------------------------------
+ID: SEP26-TECH-004
+Month: September 2026
+Topic: Science and Technology
+Subtopic: Quantum computing
+Difficulty: Hard
+Source: Toppers-CA-September-26-2026-by-AffairsCloud-1-v01.pdf
+Question: DRDO partnered with which company to develop an indigenous 20 mK dilution refrigerator for quantum computing?
+A. Zero mK India
+B. TCS
+C. Agnikul Cosmos
+D. GalaxEye
+Correct answer: A
+Explanation: The headline names Zero mK India.
+Memory tip: A dilution refrigerator enables extremely low temperatures needed for some quantum systems.
+
+ID: SEP26-TECH-005
+Month: September 2026
+Topic: Science and Technology
+Subtopic: AI education
+Difficulty: Medium
+Source: Toppers-CA-September-26-2026-by-AffairsCloud-1-v01.pdf
+Question: Which institutions launched a Centre of Excellence in AI?
+A. IIEST Shibpur and TCS
+B. IIT-BHU and University of Michigan
+C. NIT Srinagar and ISRO
+D. IIIT-Bangalore and TCA
+Correct answer: A
+Explanation: The headline identifies IIEST Shibpur and TCS.
+Memory tip: Match the partnership to AI and a Centre of Excellence.
+
+ID: SEP26-SPACE-014
+Month: September 2026
+Topic: Science and Technology
+Subtopic: Space cooperation
+Difficulty: Medium
+Source: Toppers-CA-September-26-2026-by-AffairsCloud-1-v01.pdf
+Question: Until which year was the ISRO–ESA partnership extended?
+A. 2028
+B. 2030
+C. 2032
+D. 2035
+Correct answer: C
+Explanation: The headline reports an extension until 2032.
+Memory tip: ESA = European Space Agency.
+
+ID: SEP26-ADD-019
+Month: September 2026
+Topic: Science and Technology
+Subtopic: Quantum computing
+Difficulty: Hard
+Source: Toppers-CA-September-26-2026-by-AffairsCloud-1-v01.pdf
+Question: What temperature does the 20 mK dilution refrigerator correspond to in Kelvin?
+A. 0.2 K
+B. 0.02 K
+C. 2 K
+D. 20 K
+Correct answer: B
+Explanation: The PDF states 20 millikelvin corresponds to around 0.02 Kelvin.
+Memory tip: 1 millikelvin = 0.001 Kelvin.
+
+TOPIC: Awards and Recognitions
+------------------------------------------------------------
+ID: SEP26-AWARD-013
+Month: September 2026
+Topic: Awards and Recognitions
+Subtopic: Agriculture
+Difficulty: Medium
+Source: Toppers-CA-September-26-2026-by-AffairsCloud-1-v01.pdf
+Question: Which farmer from Mizoram was named to receive an FAO award?
+A. ZT Lalrithangi
+B. Roxy Mathew Koll
+C. Neelima Satyam
+D. Savithri Sreedharan
+Correct answer: A
+Explanation: The headline names Mizoram farmer ZT Lalrithangi.
+Memory tip: FAO = Food and Agriculture Organization.
+
+TOPIC: Environment
+------------------------------------------------------------
+ID: SEP26-ENV-015
+Month: September 2026
+Topic: Environment
+Subtopic: Botany
+Difficulty: Hard
+Source: Toppers-CA-September-26-2026-by-AffairsCloud-1-v01.pdf
+Question: Which new plant species was reported discovered from Arunachal Pradesh?
+A. Begonia neelamorum
+B. Leopardus tilcayo
+C. Agnibaan
+D. KAL
+Correct answer: A
+Explanation: The PDF names Begonia neelamorum.
+Memory tip: Begonia neelamorum is a plant; Leopardus tilcayo is the tiger-cat species reported earlier.
+
+TOPIC: Aviation
+------------------------------------------------------------
+ID: SEP26-ADD-020
+Month: September 2026
+Topic: Aviation
+Subtopic: OAG Megahubs
+Difficulty: Medium
+Source: Toppers-CA-September-26-2026-by-AffairsCloud-1-v01.pdf
+Question: What was Delhi Airport's Asia-Pacific rank in OAG Megahubs 2026?
+A. 5th
+B. 7th
+C. 9th
+D. 11th
+Correct answer: C
+Explanation: The detailed notes give Delhi Airport an Asia-Pacific rank of 9th.
+Memory tip: Global rank 28th; Asia-Pacific rank 9th.
+
+ID: SEP26-ADD-021
+Month: September 2026
+Topic: Aviation
+Subtopic: OAG Megahubs
+Difficulty: Hard
+Source: Toppers-CA-September-26-2026-by-AffairsCloud-1-v01.pdf
+Question: What share of capacity at Delhi Airport was attributed to IndiGo in the OAG report?
+A. 30%
+B. 35%
+C. 40%
+D. 57%
+Correct answer: C
+Explanation: The PDF says IndiGo accounted for 40% of capacity at Delhi Airport.
+Memory tip: 40% is IndiGo's capacity share; 57% is the low-cost-carrier share.
+
+ID: SEP26-ADD-022
+Month: September 2026
+Topic: Aviation
+Subtopic: OAG Megahubs
+Difficulty: Hard
+Source: Toppers-CA-September-26-2026-by-AffairsCloud-1-v01.pdf
+Question: What share of Delhi Airport's capacity was attributed to low-cost carriers in the OAG index?
+A. 40%
+B. 47%
+C. 52%
+D. 57%
+Correct answer: D
+Explanation: The detailed content gives 57% for low-cost carriers.
+Memory tip: Do not confuse with IndiGo's 40% capacity share.
+
+TOPIC: International Affairs
+------------------------------------------------------------
+ID: SEP26-ADD-023
+Month: September 2026
+Topic: International Affairs
+Subtopic: IEA energy outlook
+Difficulty: Hard
+Source: Toppers-CA-September-26-2026-by-AffairsCloud-1-v01.pdf
+Question: What share of global electricity-demand growth over the past decade did China contribute, according to the IEA summary?
+A. Over 40%
+B. Over 50%
+C. Over 60%
+D. Over 80%
+Correct answer: C
+Explanation: The PDF says China contributed over 60%.
+Memory tip: China >60% of global electricity-demand growth.
+
+========================================================================================
+SOURCE PDF: Toppers-CA-September-27-28-2026-by-AffairsCloud-1-v01.pdf
+QUESTIONS FROM THIS PDF: 24
+========================================================================================
+
+TOPIC: Economy and Business
+------------------------------------------------------------
+ID: SEP2728-IND-001
+Month: September 2026
+Topic: Economy and Business
+Subtopic: Make in India
+Difficulty: Easy
+Source: Toppers-CA-September-27-28-2026-by-AffairsCloud-1-v01.pdf
+Question: How many years did the Make in India initiative complete in 2026?
+A. 10
+B. 11
+C. 12
+D. 15
+Correct answer: C
+Explanation: The headline says Make in India completed 12 years.
+Memory tip: The initiative was launched on 25 September 2014, as stated in the PDF.
+
+ID: SEP2728-ECO-008
+Month: September 2026
+Topic: Economy and Business
+Subtopic: GDP forecast
+Difficulty: Medium
+Source: Toppers-CA-September-27-28-2026-by-AffairsCloud-1-v01.pdf
+Question: What FY27 GDP growth forecast did OECD give India in the 27–28 September PDF?
+A. 6.5%
+B. 6.9%
+C. 7.1%
+D. 7.5%
+Correct answer: C
+Explanation: The headline says OECD raised its forecast to 7.1%.
+Memory tip: Keep the OECD estimate distinct from those of Fitch, Moody's, S&P and ADB.
+
+ID: SEP2728-ENERGY-009
+Month: September 2026
+Topic: Economy and Business
+Subtopic: Joint venture
+Difficulty: Medium
+Source: Toppers-CA-September-27-28-2026-by-AffairsCloud-1-v01.pdf
+Question: Which two organizations formed a 50:50 JV for low-carbon energy projects?
+A. NTPC and EDF Power Solutions
+B. NTPC and TCS
+C. ISRO and ESA
+D. DRDO and Zero mK India
+Correct answer: A
+Explanation: The PDF names NTPC and EDF Power Solutions.
+Memory tip: A 50:50 JV implies equal ownership shares.
+
+ID: SEP2728-ADD-013
+Month: September 2026
+Topic: Economy and Business
+Subtopic: Make in India
+Difficulty: Hard
+Source: Toppers-CA-September-27-28-2026-by-AffairsCloud-1-v01.pdf
+Question: When was the Make in India initiative launched, as given in the detailed content?
+A. 25 September 2011
+B. 25 September 2014
+C. 2 October 2014
+D. 15 August 2015
+Correct answer: B
+Explanation: The detailed content says Make in India was launched on 25 September 2014.
+Memory tip: 2026 marks its 12th anniversary.
+
+ID: SEP2728-ADD-014
+Month: September 2026
+Topic: Economy and Business
+Subtopic: Make in India
+Difficulty: Hard
+Source: Toppers-CA-September-27-28-2026-by-AffairsCloud-1-v01.pdf
+Question: How much FDI was reported in the Make in India overview?
+A. USD 483 billion
+B. USD 643 billion
+C. USD 843 billion
+D. USD 1,043 billion
+Correct answer: C
+Explanation: The PDF lists FDI at USD 843 billion, up 169%.
+Memory tip: FDI figure in the notes: USD 843 billion.
+
+ID: SEP2728-ADD-015
+Month: September 2026
+Topic: Economy and Business
+Subtopic: Industrial land
+Difficulty: Hard
+Source: Toppers-CA-September-27-28-2026-by-AffairsCloud-1-v01.pdf
+Question: How many industrial parks had been mapped by the India Industrial Land Bank, according to the PDF?
+A. 2,220
+B. 3,220
+C. 4,220
+D. 5,220
+Correct answer: C
+Explanation: The notes report 4,220 parks mapped.
+Memory tip: IILB = India Industrial Land Bank.
+
+ID: SEP2728-ADD-016
+Month: September 2026
+Topic: Economy and Business
+Subtopic: Industrial land
+Difficulty: Hard
+Source: Toppers-CA-September-27-28-2026-by-AffairsCloud-1-v01.pdf
+Question: Approximately how many hectares did the India Industrial Land Bank map across industrial parks?
+A. 3.98 lakh hectares
+B. 5.98 lakh hectares
+C. 6.98 lakh hectares
+D. 8.98 lakh hectares
+Correct answer: C
+Explanation: The PDF states approximately 6.98 lakh hectares.
+Memory tip: 4,220 parks; 6.98 lakh hectares.
+
+TOPIC: Agriculture
+------------------------------------------------------------
+ID: SEP2728-AGR-002
+Month: September 2026
+Topic: Agriculture
+Subtopic: FCV tobacco support
+Difficulty: Hard
+Source: Toppers-CA-September-27-28-2026-by-AffairsCloud-1-v01.pdf
+Question: What one-time interest-free loan was approved per barn for FCV tobacco growers in Andhra Pradesh?
+A. Rs 25,000
+B. Rs 50,000
+C. Rs 75,000
+D. Rs 1 lakh
+Correct answer: B
+Explanation: The headline reports Rs 50,000 per barn.
+Memory tip: FCV means Flue-Cured Virginia tobacco.
+
+ID: SEP2728-ADD-017
+Month: September 2026
+Topic: Agriculture
+Subtopic: FCV tobacco
+Difficulty: Medium
+Source: Toppers-CA-September-27-28-2026-by-AffairsCloud-1-v01.pdf
+Question: Through which mechanism was the Rs 50,000 one-time interest-free loan for FCV tobacco growers described?
+A. Per barn
+B. Per household
+C. Per district
+D. Per auction platform
+Correct answer: A
+Explanation: The headline specifies Rs 50,000 per barn.
+Memory tip: The unit matters: per barn, not per grower or district.
+
+TOPIC: Defence
+------------------------------------------------------------
+ID: SEP2728-DEF-003
+Month: September 2026
+Topic: Defence
+Subtopic: Air exercise
+Difficulty: Easy
+Source: Toppers-CA-September-27-28-2026-by-AffairsCloud-1-v01.pdf
+Question: Which multinational air exercise's second edition was hosted by the IAF in Rajasthan?
+A. Tarang Shakti 2026
+B. Varuna 2026
+C. SLINEX-26
+D. Nomadic Elephant
+Correct answer: A
+Explanation: The PDF names Tarang Shakti 2026.
+Memory tip: Tarang Shakti is the multinational air exercise.
+
+TOPIC: National Affairs
+------------------------------------------------------------
+ID: SEP2728-PORT-004
+Month: September 2026
+Topic: National Affairs
+Subtopic: Ports
+Difficulty: Hard
+Source: Toppers-CA-September-27-28-2026-by-AffairsCloud-1-v01.pdf
+Question: How many ports were notified as mega ports, including Adani's Mundra Port, according to the PDF?
+A. 2
+B. 3
+C. 4
+D. 6
+Correct answer: C
+Explanation: The headline says four ports were notified.
+Memory tip: The source describes these as India's first mega ports.
+
+TOPIC: Environment
+------------------------------------------------------------
+ID: SEP2728-ENV-005
+Month: September 2026
+Topic: Environment
+Subtopic: Forest management
+Difficulty: Medium
+Source: Toppers-CA-September-27-28-2026-by-AffairsCloud-1-v01.pdf
+Question: Which organization supported the forest-management capacity enhancement project launched by Bhupender Yadav?
+A. JICA
+B. ADB
+C. UNDP
+D. World Bank
+Correct answer: A
+Explanation: The PDF calls it a JICA-supported project.
+Memory tip: JICA = Japan International Cooperation Agency.
+
+ID: SEP2728-ADD-018
+Month: September 2026
+Topic: Environment
+Subtopic: Forest management
+Difficulty: Hard
+Source: Toppers-CA-September-27-28-2026-by-AffairsCloud-1-v01.pdf
+Question: What was the total outlay of the JICA-supported forest-management capacity enhancement project?
+A. Rs 337.10 crore
+B. Rs 437.10 crore
+C. Rs 537.10 crore
+D. Rs 637.10 crore
+Correct answer: C
+Explanation: The detailed content gives an outlay of Rs 537.10 crore.
+Memory tip: Total outlay differs from JICA's contribution.
+
+ID: SEP2728-ADD-019
+Month: September 2026
+Topic: Environment
+Subtopic: Forest management
+Difficulty: Hard
+Source: Toppers-CA-September-27-28-2026-by-AffairsCloud-1-v01.pdf
+Question: How much was JICA's contribution to the forest-management capacity enhancement project?
+A. Rs 340.42 crore
+B. Rs 440.42 crore
+C. Rs 540.42 crore
+D. Rs 640.42 crore
+Correct answer: B
+Explanation: The PDF lists JICA's contribution as Rs 440.42 crore.
+Memory tip: Total project outlay Rs 537.10 crore; JICA contribution Rs 440.42 crore.
+
+ID: SEP2728-ADD-020
+Month: September 2026
+Topic: Environment
+Subtopic: NGT conference
+Difficulty: Medium
+Source: Toppers-CA-September-27-28-2026-by-AffairsCloud-1-v01.pdf
+Question: How many countries' judicial representatives participated in the NGT international conference, according to the PDF?
+A. 7
+B. 12
+C. 17
+D. 27
+Correct answer: C
+Explanation: The detailed content says representatives from 17 countries participated.
+Memory tip: NGT conference: 17 countries.
+
+TOPIC: Science and Technology
+------------------------------------------------------------
+ID: SEP2728-TECH-006
+Month: September 2026
+Topic: Science and Technology
+Subtopic: Reusable launch vehicle
+Difficulty: Hard
+Source: Toppers-CA-September-27-28-2026-by-AffairsCloud-1-v01.pdf
+Question: Which company received a Rs 200-crore pact from TDB to develop the fully reusable Agnibaan RLV launch vehicle?
+A. Agnikul Cosmos
+B. GalaxEye
+C. Zero mK India
+D. TCS
+Correct answer: A
+Explanation: The headline names Agnikul Cosmos.
+Memory tip: Agnibaan RLV is a launch-vehicle project, not the KAL drone.
+
+ID: SEP2728-TECH-011
+Month: September 2026
+Topic: Science and Technology
+Subtopic: Microelectronics
+Difficulty: Medium
+Source: Toppers-CA-September-27-28-2026-by-AffairsCloud-1-v01.pdf
+Question: Which institution developed India's first indigenous working micro-GPU?
+A. IIT Delhi
+B. IIT Madras
+C. IIEST Shibpur
+D. IIT-BHU
+Correct answer: A
+Explanation: The PDF attributes the micro-GPU to IIT Delhi.
+Memory tip: The headline describes it as an indigenous working micro-GPU.
+
+ID: SEP2728-ADD-021
+Month: September 2026
+Topic: Science and Technology
+Subtopic: Agnibaan RLV
+Difficulty: Hard
+Source: Toppers-CA-September-27-28-2026-by-AffairsCloud-1-v01.pdf
+Question: To which Technology Readiness Level was the Agnibaan RLV project intended to advance technology?
+A. TRL-4
+B. TRL-6
+C. TRL-8
+D. TRL-10
+Correct answer: C
+Explanation: The PDF says technology would advance from TRL-4 and above to TRL-8.
+Memory tip: TRL = Technology Readiness Level.
+
+TOPIC: International Affairs
+------------------------------------------------------------
+ID: SEP2728-TOUR-007
+Month: September 2026
+Topic: International Affairs
+Subtopic: Tourism index
+Difficulty: Medium
+Source: Toppers-CA-September-27-28-2026-by-AffairsCloud-1-v01.pdf
+Question: What rank did India receive in the WEF's 2026 Travel & Tourism Development Index?
+A. 21st
+B. 28th
+C. 31st
+D. 41st
+Correct answer: C
+Explanation: The headline reports India at 31st; Japan topped globally.
+Memory tip: TTDI = Travel & Tourism Development Index.
+
+ID: SEP2728-ADD-022
+Month: September 2026
+Topic: International Affairs
+Subtopic: Tourism index
+Difficulty: Hard
+Source: Toppers-CA-September-27-28-2026-by-AffairsCloud-1-v01.pdf
+Question: Which organization prepared the 2026 Travel & Tourism Development Index with the WEF?
+A. Zurich Insurance Group
+B. World Bank
+C. OECD
+D. UN Tourism
+Correct answer: A
+Explanation: The exam hints say it was prepared by WEF and Zurich Insurance Group.
+Memory tip: Released by WEF; prepared with Zurich Insurance Group.
+
+ID: SEP2728-ADD-023
+Month: September 2026
+Topic: International Affairs
+Subtopic: Tourism index
+Difficulty: Hard
+Source: Toppers-CA-September-27-28-2026-by-AffairsCloud-1-v01.pdf
+Question: Which country ranked first in the WEF's 2026 Travel & Tourism Development Index?
+A. Japan
+B. United States
+C. Spain
+D. India
+Correct answer: A
+Explanation: The PDF lists Japan first, followed by the USA and Spain.
+Memory tip: Top three: Japan, USA, Spain.
+
+ID: SEP2728-ADD-024
+Month: September 2026
+Topic: International Affairs
+Subtopic: Tourism index
+Difficulty: Medium
+Source: Toppers-CA-September-27-28-2026-by-AffairsCloud-1-v01.pdf
+Question: What overall score did India receive with its 31st rank in the 2026 TTDI?
+A. 3.42
+B. 4.42
+C. 5.42
+D. 6.42
+Correct answer: B
+Explanation: The PDF gives India a score of 4.42.
+Memory tip: India rank 31st; score 4.42.
+
+TOPIC: Appointments
+------------------------------------------------------------
+ID: SEP2728-APPT-010
+Month: September 2026
+Topic: Appointments
+Subtopic: Education
+Difficulty: Easy
+Source: Toppers-CA-September-27-28-2026-by-AffairsCloud-1-v01.pdf
+Question: Who was appointed the new CBSE Chairperson?
+A. Mandeep K. Bhandari
+B. Dinesh Pant
+C. Jayanti Prasad
+D. Harsh Sanghani
+Correct answer: A
+Explanation: The headline names IAS officer Mandeep K. Bhandari.
+Memory tip: CBSE = Central Board of Secondary Education.
+
+TOPIC: Important Days
+------------------------------------------------------------
+ID: SEP2728-DAYS-012
+Month: September 2026
+Topic: Important Days
+Subtopic: Sign languages
+Difficulty: Easy
+Source: Toppers-CA-September-27-28-2026-by-AffairsCloud-1-v01.pdf
+Question: When was the International Day of Sign Languages listed?
+A. 21 September
+B. 22 September
+C. 23 September
+D. 24 September
+Correct answer: C
+Explanation: The PDF lists the day on 23 September.
+Memory tip: International Day of Sign Languages falls on 23 September in this source.
+
+========================================================================================
+SOURCE PDF: Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf
+QUESTIONS FROM THIS PDF: 41
+========================================================================================
+
+TOPIC: National Affairs
+------------------------------------------------------------
+ID: SEP29-RURAL-001
+Month: September 2026
+Topic: National Affairs
+Subtopic: Rural skilling
+Difficulty: Easy
+Source: Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf
+Question: Which scheme marked 12 years of rural skill development and employment support?
+A. DDU-GKY
+B. PM-SETU
+C. PMKKKY
+D. PM-JANMAN
+Correct answer: A
+Explanation: The headline says DDU-GKY marked 12 years.
+Memory tip: DDU-GKY links rural youth skill training with placement-oriented employment.
+
+ID: SEP29-HEALTH-002
+Month: September 2026
+Topic: National Affairs
+Subtopic: Health event
+Difficulty: Easy
+Source: Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf
+Question: Who inaugurated Arogya Manthan 2026 at Vigyan Bhawan?
+A. J. P. Nadda
+B. Amit Shah
+C. Nirmala Sitharaman
+D. Jitendra Singh
+Correct answer: A
+Explanation: The headline identifies Union Health Minister J. P. Nadda.
+Memory tip: Arogya Manthan is associated with health schemes and implementation.
+
+ID: SEP29-LAW-006
+Month: September 2026
+Topic: National Affairs
+Subtopic: Victim support
+Difficulty: Medium
+Source: Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf
+Question: Where was India's first Victim Rights Centre inaugurated by CJI Surya Kant?
+A. Patna, Bihar
+B. New Delhi, Delhi
+C. Bengaluru, Karnataka
+D. Ahmedabad, Gujarat
+Correct answer: A
+Explanation: The headline says the centre was inaugurated in Patna, Bihar.
+Memory tip: Remember the first-of-its-kind centre and its city.
+
+ID: SEP29-TELECOM-008
+Month: September 2026
+Topic: National Affairs
+Subtopic: Digital connectivity
+Difficulty: Medium
+Source: Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf
+Question: Which platform did TRAI launch to rate digital connectivity?
+A. Digital Connectivity Rating (DCR) Platform
+B. Bharat Connect
+C. National Single Window System
+D. National Healthcare Providers Registry
+Correct answer: A
+Explanation: The headline names the Digital Connectivity Rating platform.
+Memory tip: TRAI is the Telecom Regulatory Authority of India.
+
+ID: SEP29-ADD-016
+Month: September 2026
+Topic: National Affairs
+Subtopic: DDU-GKY
+Difficulty: Hard
+Source: Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf
+Question: How many candidates had DDU-GKY trained since launch, according to the detailed content?
+A. 8.47 lakh
+B. 12.43 lakh
+C. 18.47 lakh
+D. 24.37 lakh
+Correct answer: C
+Explanation: The PDF reports over 18.47 lakh trained candidates.
+Memory tip: Trained: 18.47 lakh; placed: 12.43 lakh.
+
+ID: SEP29-ADD-017
+Month: September 2026
+Topic: National Affairs
+Subtopic: DDU-GKY
+Difficulty: Hard
+Source: Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf
+Question: How many candidates had been placed through DDU-GKY since launch, according to the PDF?
+A. 8.47 lakh
+B. 12.43 lakh
+C. 18.47 lakh
+D. 24.37 lakh
+Correct answer: B
+Explanation: The detailed content reports more than 12.43 lakh placed candidates.
+Memory tip: Don't swap trained and placed counts.
+
+ID: SEP29-ADD-018
+Month: September 2026
+Topic: National Affairs
+Subtopic: DDU-GKY
+Difficulty: Medium
+Source: Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf
+Question: How many job roles did DDU-GKY training cover, according to the PDF?
+A. 400+
+B. 600+
+C. 800+
+D. 1,200+
+Correct answer: C
+Explanation: The PDF says candidates were trained across 800+ job roles.
+Memory tip: 800+ roles.
+
+ID: SEP29-ADD-019
+Month: September 2026
+Topic: National Affairs
+Subtopic: DDU-GKY
+Difficulty: Hard
+Source: Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf
+Question: Across how many States and Union Territories was DDU-GKY being implemented?
+A. 21
+B. 28
+C. 31
+D. 36
+Correct answer: C
+Explanation: The PDF reports implementation across 31 States and UTs.
+Memory tip: Remember 31 States/UTs.
+
+ID: SEP29-ADD-020
+Month: September 2026
+Topic: National Affairs
+Subtopic: DDU-GKY
+Difficulty: Hard
+Source: Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf
+Question: How much did annual funding per Migration Support Centre increase to?
+A. Rs 15 lakh
+B. Rs 20 lakh
+C. Rs 30 lakh
+D. Rs 40 lakh
+Correct answer: C
+Explanation: The PDF says annual funding increased from Rs 10 lakh to Rs 30 lakh per centre.
+Memory tip: Funding tripled from Rs 10 lakh to Rs 30 lakh.
+
+ID: SEP29-ADD-028
+Month: September 2026
+Topic: National Affairs
+Subtopic: Victim support
+Difficulty: Medium
+Source: Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf
+Question: For how long was the first Victim Rights Centre pilot in Patna planned before evaluation?
+A. 6 months
+B. 9 months
+C. 12 months
+D. 24 months
+Correct answer: C
+Explanation: The PDF states the pilot would run for 12 months.
+Memory tip: Pilot first, evaluate after 12 months.
+
+TOPIC: Transport
+------------------------------------------------------------
+ID: SEP29-RAIL-003
+Month: September 2026
+Topic: Transport
+Subtopic: Railways
+Difficulty: Medium
+Source: Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf
+Question: Who flagged off India's first LNG-powered train from Sabarmati, Gujarat?
+A. Amit Shah
+B. Narendra Modi
+C. Ashwini Vaishnaw
+D. Nirmala Sitharaman
+Correct answer: A
+Explanation: The PDF headline names Union Minister Amit Shah.
+Memory tip: LNG = liquefied natural gas.
+
+ID: SEP29-ADD-025
+Month: September 2026
+Topic: Transport
+Subtopic: Railways
+Difficulty: Medium
+Source: Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf
+Question: Which route operated India's first passenger train in 1853, according to the railway superlatives list?
+A. Mumbai to Thane
+B. Bombay VT to Kurla
+C. Lucknow to New Delhi
+D. Sabarmati to Sarkhej
+Correct answer: A
+Explanation: The PDF lists Mumbai to Thane as the first passenger train route.
+Memory tip: First passenger train: Mumbai–Thane, 1853.
+
+ID: SEP29-ADD-026
+Month: September 2026
+Topic: Transport
+Subtopic: Railways
+Difficulty: Medium
+Source: Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf
+Question: Which route was listed as India's first electric train service in 1925?
+A. Mumbai to Thane
+B. Bombay VT–Kurla
+C. Delhi–Agra
+D. Howrah–Burdwan
+Correct answer: B
+Explanation: The PDF lists Bombay VT–Kurla as the first electric train route.
+Memory tip: First electric train: Bombay VT–Kurla, 1925.
+
+TOPIC: Economy and Business
+------------------------------------------------------------
+ID: SEP29-ENERGY-004
+Month: September 2026
+Topic: Economy and Business
+Subtopic: Green fuels
+Difficulty: Medium
+Source: Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf
+Question: Where is India's first port-based e-methanol plant, worth Rs 2,300 crore, planned?
+A. Kandla, Gujarat
+B. Mundra, Gujarat
+C. Visakhapatnam, AP
+D. Kochi, Kerala
+Correct answer: A
+Explanation: The headline locates the plant at Kandla, Gujarat.
+Memory tip: E-methanol is a synthetic fuel that can be produced using low-carbon inputs.
+
+TOPIC: Banking and Economy
+------------------------------------------------------------
+ID: SEP29-FIN-005
+Month: September 2026
+Topic: Banking and Economy
+Subtopic: Startup investment
+Difficulty: Medium
+Source: Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf
+Question: Who launched IITM Unicorn Frontier Fund-I in Bengaluru?
+A. Nirmala Sitharaman
+B. J. P. Nadda
+C. Amit Shah
+D. C. P. Radhakrishnan
+Correct answer: A
+Explanation: The PDF names Union Finance Minister Nirmala Sitharaman.
+Memory tip: The fund is associated with IITM and startup/unicorn investment.
+
+ID: SEP29-INS-011
+Month: September 2026
+Topic: Banking and Economy
+Subtopic: Insurance regulator
+Difficulty: Medium
+Source: Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf
+Question: Whom did the government appoint as IRDAI members, according to the PDF?
+A. Dinesh Pant and Girija Subramanian
+B. Mandeep K. Bhandari and Jayanti Prasad
+C. Harsh Sanghani and Luke J. Lindberg
+D. Roxy Mathew Koll and Neelima Satyam
+Correct answer: A
+Explanation: The headline names Dinesh Pant and Girija Subramanian.
+Memory tip: IRDAI regulates the insurance sector.
+
+TOPIC: Science and Technology
+------------------------------------------------------------
+ID: SEP29-SCI-007
+Month: September 2026
+Topic: Science and Technology
+Subtopic: Science communication
+Difficulty: Medium
+Source: Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf
+Question: How many regional-language science magazines were launched on CSIR's 85th Foundation Day?
+A. 3
+B. 4
+C. 5
+D. 7
+Correct answer: C
+Explanation: The PDF reports five regional-language science magazines.
+Memory tip: The source lists Assamese, Bengali, Marathi, Tamil and Telugu titles.
+
+ID: SEP29-ADD-029
+Month: September 2026
+Topic: Science and Technology
+Subtopic: Regional science magazines
+Difficulty: Hard
+Source: Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf
+Question: Which language's science magazine was titled 'Bigyan Lahar'?
+A. Assamese
+B. Bengali
+C. Marathi
+D. Tamil
+Correct answer: A
+Explanation: The detailed content maps Bigyan Lahar to Assamese.
+Memory tip: Bigyan Lahar = Assamese.
+
+ID: SEP29-ADD-030
+Month: September 2026
+Topic: Science and Technology
+Subtopic: Regional science magazines
+Difficulty: Hard
+Source: Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf
+Question: Which language's science magazine was titled 'Vigyan Velugu'?
+A. Bengali
+B. Marathi
+C. Tamil
+D. Telugu
+Correct answer: D
+Explanation: The PDF maps Vigyan Velugu to Telugu.
+Memory tip: Vigyan Velugu = Telugu.
+
+ID: SEP29-ADD-031
+Month: September 2026
+Topic: Science and Technology
+Subtopic: Regional science magazines
+Difficulty: Hard
+Source: Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf
+Question: What mascot did CSIR launch on its 85th Foundation Day?
+A. CIRA
+B. DCR
+C. ABHA
+D. NSS
+Correct answer: A
+Explanation: The PDF lists the CSIR mascot as CIRA.
+Memory tip: CIRA = CSIR mascot.
+
+TOPIC: Defence
+------------------------------------------------------------
+ID: SEP29-DEF-009
+Month: September 2026
+Topic: Defence
+Subtopic: Naval exercise
+Difficulty: Easy
+Source: Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf
+Question: Where did the Indian Navy participate in the 24th edition of Exercise VARUNA?
+A. France
+B. Russia
+C. Sri Lanka
+D. Mongolia
+Correct answer: A
+Explanation: The headline states the exercise was held in France.
+Memory tip: VARUNA is the India–France naval exercise.
+
+ID: SEP29-ADD-033
+Month: September 2026
+Topic: Defence
+Subtopic: Exercise VARUNA
+Difficulty: Hard
+Source: Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf
+Question: Which Indian ship participated in the 24th edition of Exercise VARUNA?
+A. INS Trishul
+B. INS Vikrant
+C. INS Chennai
+D. INS Kolkata
+Correct answer: A
+Explanation: The exam hints identify INS Trishul.
+Memory tip: VARUNA 2026: Toulon, France; Indian ship INS Trishul.
+
+TOPIC: Awards and Recognitions
+------------------------------------------------------------
+ID: SEP29-AWARD-010
+Month: September 2026
+Topic: Awards and Recognitions
+Subtopic: Climate science
+Difficulty: Hard
+Source: Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf
+Question: Which Indian scientist was listed among the AGU 2026 awardees for climate communications?
+A. Roxy Mathew Koll
+B. ZT Lalrithangi
+C. Neelima Satyam
+D. Dinesh Pant
+Correct answer: A
+Explanation: The PDF names Roxy Mathew Koll and Neelima Satyam among AGU awardees; Roxy Mathew Koll was linked to the Pavel S. Molohanov Climate Communications Prize.
+Memory tip: Pair each awardee with the correct award category.
+
+ID: SEP29-ADD-034
+Month: September 2026
+Topic: Awards and Recognitions
+Subtopic: AGU awards
+Difficulty: Hard
+Source: Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf
+Question: What cash prize was associated with Roxy Mathew Koll's AGU climate-communications prize?
+A. USD 5,000
+B. USD 10,000
+C. USD 25,000
+D. USD 50,000
+Correct answer: C
+Explanation: The PDF lists a cash prize of USD 25,000.
+Memory tip: Roxy Mathew Koll — Pavel S. Molohanov Climate Communications Prize.
+
+TOPIC: Sports
+------------------------------------------------------------
+ID: SEP29-SPORT-012
+Month: September 2026
+Topic: Sports
+Subtopic: Chess Olympiad
+Difficulty: Medium
+Source: Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf
+Question: What were India's results in the 46th Chess Olympiad 2026, according to the headline?
+A. Gold in Open and Women
+B. Silver in Open and bronze in Women
+C. Bronze in Open and silver in Women
+D. Silver in both sections
+Correct answer: B
+Explanation: The headline reports silver in the Open section and bronze in the Women's section; India retained the Nona Gaprindashvili Trophy.
+Memory tip: Remember Open = silver; Women = bronze.
+
+ID: SEP29-SPORT-013
+Month: September 2026
+Topic: Sports
+Subtopic: Pencak Silat
+Difficulty: Medium
+Source: Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf
+Question: Which Asian championships will India host in Goa in 2027?
+A. 4th Junior and 11th Senior Asian Pencak Silat Championships
+B. Asian Senior Wushu Championships
+C. UCI Road World Championships
+D. Asian Chess Championships
+Correct answer: A
+Explanation: The PDF lists the 4th Junior and 11th Senior Asian Pencak Silat Championships.
+Memory tip: Pencak Silat is a martial art and combat sport.
+
+ID: SEP29-ADD-036
+Month: September 2026
+Topic: Sports
+Subtopic: Chess Olympiad
+Difficulty: Hard
+Source: Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf
+Question: How many rounds did each section of the 46th Chess Olympiad follow, according to the PDF?
+A. 7
+B. 9
+C. 11
+D. 13
+Correct answer: C
+Explanation: The detailed content says both sections followed an 11-round Swiss format.
+Memory tip: 11 rounds; teams had four players.
+
+ID: SEP29-ADD-037
+Month: September 2026
+Topic: Sports
+Subtopic: Chess Olympiad
+Difficulty: Medium
+Source: Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf
+Question: Which country won gold in the Open section of the 46th Chess Olympiad 2026?
+A. India
+B. Uzbekistan
+C. China
+D. Ukraine
+Correct answer: B
+Explanation: The detailed content says hosts Uzbekistan won Open gold.
+Memory tip: Open gold: Uzbekistan; women's gold: China.
+
+ID: SEP29-ADD-038
+Month: September 2026
+Topic: Sports
+Subtopic: Chess Olympiad
+Difficulty: Medium
+Source: Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf
+Question: Which country won gold in the women's section of the 46th Chess Olympiad 2026?
+A. India
+B. Uzbekistan
+C. China
+D. Vietnam
+Correct answer: C
+Explanation: The PDF says China won the women's gold medal.
+Memory tip: Women's gold: China.
+
+TOPIC: Important Days
+------------------------------------------------------------
+ID: SEP29-DAYS-014
+Month: September 2026
+Topic: Important Days
+Subtopic: Maritime
+Difficulty: Easy
+Source: Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf
+Question: On which date was World Maritime Day listed in the 29 September PDF?
+A. 22 September
+B. 24 September
+C. 25 September
+D. 27 September
+Correct answer: B
+Explanation: The PDF lists World Maritime Day on 24 September.
+Memory tip: Use the date as presented in the supplied source.
+
+ID: SEP29-DAYS-015
+Month: September 2026
+Topic: Important Days
+Subtopic: Tourism
+Difficulty: Easy
+Source: Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf
+Question: World Tourism Day was listed on which date?
+A. 24 September
+B. 25 September
+C. 26 September
+D. 27 September
+Correct answer: D
+Explanation: The PDF lists World Tourism Day on 27 September.
+Memory tip: World Tourism Day = 27 September.
+
+ID: SEP29-ADD-039
+Month: September 2026
+Topic: Important Days
+Subtopic: World Pharmacists Day
+Difficulty: Medium
+Source: Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf
+Question: What was the 2026 theme of World Pharmacists Day listed in the PDF?
+A. Empowering Pharmacists for Healthier Futures
+B. Health for All Through Innovation
+C. Pharmacy for a Better World
+D. Together for Universal Health
+Correct answer: A
+Explanation: The source gives the theme as 'Empowering Pharmacists for Healthier Futures'.
+Memory tip: Memorize the exact theme wording.
+
+ID: SEP29-ADD-040
+Month: September 2026
+Topic: Important Days
+Subtopic: Antyodaya Diwas
+Difficulty: Hard
+Source: Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf
+Question: Which birth anniversary of Pandit Deendayal Upadhyaya did 25 September 2026 mark?
+A. 100th
+B. 105th
+C. 110th
+D. 125th
+Correct answer: C
+Explanation: The PDF states 25 September 2026 marked his 110th birth anniversary.
+Memory tip: Antyodaya Diwas: 25 September; 110th birth anniversary in 2026.
+
+ID: SEP29-ADD-041
+Month: September 2026
+Topic: Important Days
+Subtopic: World Tourism Day
+Difficulty: Medium
+Source: Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf
+Question: What was the 2026 theme of World Tourism Day given in the PDF?
+A. Digital Agenda and Artificial Intelligence to Redesign Tourism
+B. Tourism and Green Investment
+C. Tourism for Peace and Development
+D. Sustainable Travel for All
+Correct answer: A
+Explanation: The PDF gives the theme as 'Digital Agenda and Artificial Intelligence to Redesign Tourism'.
+Memory tip: World Tourism Day: 27 September.
+
+TOPIC: Health
+------------------------------------------------------------
+ID: SEP29-ADD-021
+Month: September 2026
+Topic: Health
+Subtopic: Digital health
+Difficulty: Hard
+Source: Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf
+Question: How many ABHA IDs had been created under ABDM, according to the Arogya Manthan coverage?
+A. 47.8 crore
+B. 77.8 crore
+C. 97.8 crore
+D. 121 crore
+Correct answer: C
+Explanation: The PDF reports over 97.8 crore ABHA IDs.
+Memory tip: ABHA IDs are distinct from linked health records.
+
+ID: SEP29-ADD-022
+Month: September 2026
+Topic: Health
+Subtopic: Digital health
+Difficulty: Hard
+Source: Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf
+Question: How many health records had been linked under ABDM, according to the PDF?
+A. 97.8 crore
+B. 101 crore
+C. 121 crore
+D. 150 crore
+Correct answer: C
+Explanation: The detailed content reports over 121 crore health records linked.
+Memory tip: ABHA IDs: 97.8 crore; linked records: 121 crore.
+
+ID: SEP29-ADD-023
+Month: September 2026
+Topic: Health
+Subtopic: Digital health
+Difficulty: Hard
+Source: Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf
+Question: How many healthcare professionals were registered on the ABDM ecosystem, according to the PDF?
+A. Around 5.6 lakh
+B. Around 8 lakh
+C. Around 11 lakh
+D. Around 21 lakh
+Correct answer: C
+Explanation: The PDF reports around 11 lakh healthcare professionals.
+Memory tip: Health facilities: 5.6 lakh; professionals: 11 lakh.
+
+ID: SEP29-ADD-024
+Month: September 2026
+Topic: Health
+Subtopic: National Health Authority
+Difficulty: Medium
+Source: Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf
+Question: In which year was the National Health Authority established, according to the PDF?
+A. 2016
+B. 2017
+C. 2018
+D. 2019
+Correct answer: D
+Explanation: The PDF lists the National Health Authority as established in 2019.
+Memory tip: NHA is associated with implementation of PM-JAY.
+
+TOPIC: Environment
+------------------------------------------------------------
+ID: SEP29-ADD-027
+Month: September 2026
+Topic: Environment
+Subtopic: Green fuels
+Difficulty: Hard
+Source: Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf
+Question: What is India's stated Net Zero emissions target year mentioned in the e-methanol project coverage?
+A. 2047
+B. 2060
+C. 2070
+D. 2075
+Correct answer: C
+Explanation: The PDF says the project aligns with India's Net Zero commitment by 2070.
+Memory tip: India Net Zero target: 2070.
+
+TOPIC: Telecom
+------------------------------------------------------------
+ID: SEP29-ADD-032
+Month: September 2026
+Topic: Telecom
+Subtopic: TRAI platform
+Difficulty: Hard
+Source: Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf
+Question: What year was TRAI established, according to the PDF?
+A. 1995
+B. 1997
+C. 2000
+D. 2002
+Correct answer: B
+Explanation: The detailed content says TRAI was established in 1997.
+Memory tip: TRAI headquarters: New Delhi.
+
+TOPIC: Appointments
+------------------------------------------------------------
+ID: SEP29-ADD-035
+Month: September 2026
+Topic: Appointments
+Subtopic: IRDAI
+Difficulty: Hard
+Source: Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf
+Question: What is the maximum age specified for the newly appointed IRDAI members' tenure, unless five years ends earlier?
+A. 60 years
+B. 62 years
+C. 65 years
+D. 70 years
+Correct answer: C
+Explanation: The PDF says five years or up to age 65, whichever is earlier.
+Memory tip: IRDAI tenure: five years or age 65, whichever comes first.
+
+========================================================================================
+SOURCE COVERAGE SUMMARY
+========================================================================================
+Toppers-CA-September-22-2026-by-AffairsCloud-1-v01.pdf: 24 questions
+Toppers-CA-September-23-2026-by-AffairsCloud-1-v01.pdf: 20 questions
+Toppers-CA-September-24-2026-by-AffairsCloud-1-v01.pdf: 19 questions
+Toppers-CA-September-25-2026-by-AffairsCloud-1-v01.pdf: 20 questions
+Toppers-CA-September-26-2026-by-AffairsCloud-1-v01.pdf: 24 questions
+Toppers-CA-September-27-28-2026-by-AffairsCloud-1-v01.pdf: 24 questions
+Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf: 41 questions
+TOTAL: 172 questions

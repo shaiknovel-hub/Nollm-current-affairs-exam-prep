@@ -1,0 +1,20 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Large local files - not needed on Streamlit Cloud
+data/exam_prep.db
+data/exam_prep.db.bak
+data/extracted/
+data/question_candidates/
+data/pdfs/
+
+# Temp scripts
+check_db.py
+inspect_db.py
+
+# Tests cache
+.pytest_cache/
