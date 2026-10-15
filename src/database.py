@@ -135,16 +135,20 @@ def init_db():
         conn.execute("CREATE INDEX IF NOT EXISTS idx_questions_topic ON questions(topic)")
         conn.execute("CREATE INDEX IF NOT EXISTS idx_documents_hash ON documents(content_hash)")
 
-        # Auto-seed from claude_questions.txt if the questions table is empty
-        q_count = conn.execute("SELECT COUNT(*) FROM questions").fetchone()[0]
-        if q_count == 0:
-            try:
-                from src.seeder import seed_questions_from_file
-                n = seed_questions_from_file(conn)
-                if n > 0:
-                    conn.commit()
-            except Exception:
-                pass  # Seeding failure should not crash the app
+        
+        # Import new questions on every initialization.
+        # The seeder skips questions already present in SQLite.
+        try:
+            from src.seeder import seed_questions_from_file
+        
+            n = seed_questions_from_file(conn)
+            if n > 0:
+                conn.commit()
+                print(f"[Database] Imported {n} new questions.")
+        except Exception as exc:
+            print(f"[Database] Question import failed: {exc}")
+
+        
 
 
 def get_available_months():
