@@ -2778,3 +2778,6 @@ Toppers-CA-September-26-2026-by-AffairsCloud-1-v01.pdf: 24 questions
 Toppers-CA-September-27-28-2026-by-AffairsCloud-1-v01.pdf: 24 questions
 Toppers-CA-September-29-2026-by-AffairsCloud-1-1-v01.pdf: 41 questions
 TOTAL: 172 questions
+
+python scripts/import_claude_questions.py
+streamlit run app.py
