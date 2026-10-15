@@ -159,19 +159,20 @@ def _parse_format2(text: str):
             "explanation": expl, "memory_cue": tip, "difficulty": difficulty})
     return questions
 
+
 def seed_questions_from_file(conn: sqlite3.Connection) -> int:
     """
-    Parses claude_questions.txt and inserts all questions into the DB.
+    Import new questions from claude_questions.txt without deleting or
+    modifying existing questions. Safe to run repeatedly.
     Returns the number of questions inserted.
-    Should only be called when the questions table is empty.
     """
     if not QUESTIONS_FILE.exists():
+        print(f"[Seeder] File not found: {QUESTIONS_FILE}")
         return 0
 
     text = QUESTIONS_FILE.read_text(encoding="utf-8")
     text = re.split(r'END_OF_QUESTION_BANK', text, flags=re.I)[0]
 
-    # Split at last END_QUESTION to separate the two formats
     last_eq = [m.end() for m in re.finditer(r'END_QUESTION', text, re.I)]
     if last_eq:
         f1_text = text[:last_eq[-1]]
@@ -182,16 +183,31 @@ def seed_questions_from_file(conn: sqlite3.Connection) -> int:
 
     all_qs = _parse_format1(f1_text) + _parse_format2(f2_text)
 
-    # Deduplicate
-    seen, unique = set(), []
-    for q in all_qs:
-        key = q["question_text"].strip().lower()
-        if key not in seen:
-            seen.add(key)
-            unique.append(q)
+    # Normalize question text to detect existing and repeated questions.
+    def question_key(value):
+        return " ".join(value.casefold().split())
+
+    seen = set()
+
+    # Load questions already in SQLite. Do not delete or update them.
+    existing_rows = conn.execute(
+        "SELECT question_text FROM questions"
+    ).fetchall()
+
+    for row in existing_rows:
+        seen.add(question_key(row[0]))
 
     inserted = 0
-    for q in unique:
+    skipped = 0
+    errors = 0
+
+    for q in all_qs:
+        key = question_key(q["question_text"])
+
+        if not key or key in seen:
+            skipped += 1
+            continue
+
         try:
             conn.execute("""
                 INSERT INTO questions (
@@ -201,14 +217,35 @@ def seed_questions_from_file(conn: sqlite3.Connection) -> int:
                     difficulty, approval_status, created_at
                 ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 'approved', datetime('now'))
             """, (
-                q["source_filename"], q["month"], q["year"],
-                q["topic"], q["subtopic"], q["question_text"],
-                json.dumps(q["options"]), q["correct_option"],
-                q["explanation"], q["memory_cue"], q["subtopic"],
+                q["source_filename"],
+                q["month"],
+                q["year"],
+                q["topic"],
+                q["subtopic"],
+                q["question_text"],
+                json.dumps(q["options"], ensure_ascii=False),
+                q["correct_option"],
+                q["explanation"],
+                q["memory_cue"],
+                q["subtopic"],
                 q["difficulty"],
             ))
+
+            # Prevent duplicates within the same import.
+            seen.add(key)
             inserted += 1
-        except Exception:
-            pass
+
+        except Exception as exc:
+            errors += 1
+            print(
+                f"[Seeder] Failed to import question "
+                f"{q['question_text'][:100]!r}: {exc}"
+            )
+
+    print(
+        f"[Seeder] Parsed {len(all_qs)} questions; "
+        f"inserted {inserted}; skipped duplicates {skipped}; "
+        f"errors {errors}."
+    )
 
     return inserted
